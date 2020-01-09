@@ -1,0 +1,764 @@
+Genus,Species,Phylum,Class,Order,Family,Realm,Realm_detail,Realm_source,thermy,demers_pelag,demers_pelag_fb,demers_pelag_source,mobility,mobility_source,weight,weight_source,length,lengthType,length_source,fishbase_sci
+Menidia,beryllina,Chordata,Actinopteri,Atheriniformes,Atherinopsidae,Freshwater,brackish,fishbase,ectotherm,pelagic,pelagic-neritic,fishbase,swim,,21.62322,fishbase from LW relationship of related species,15,TL,fishbase,Menidia beryllina
+Parakanthophoreus,antarcticus,Arthropoda,Malacostraca,Tanaidacea,Akanthophoreidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,WoRMS,swim,,NA,NA,0.4,body length,Bates et al. 2010 Supplement 2 (under Paraleptognathia antarctica),NA
+Ophiostigma,abnorme,Echinodermata,Ophiuroidea,Ophiurida,Amphiuridae,Marine,marine,WoRMS,ectotherm,demersal,benthic,WoRMS,crawl,,NA,NA,20,arm-body diameter-arm,estimate from Vopel et al. 2003 https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.4319/lo.2003.48.5.2034; Fujita et al. 2011 http://www.kahaku.go.jp/research/publication/zoology/download/37_4/BNMNS_A370406.pdf,NA
+Apogon,dovii,Chordata,Actinopteri,Kurtiformes,Apogonidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,7.72,fishbase from LW relationship of related species,7.5,TL,fishbase,Apogon dovii
+Apogon,novemfasciatus,Chordata,Actinopteri,Kurtiformes,Apogonidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,16.31284471,fishbase from LW and reverse LL relationship,10,TL,fishbase,Ostorhinchus novemfasciatus
+Apogon,pacifici,Chordata,Actinopteri,Kurtiformes,Apogonidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,12.21341811,fishbase from LW relationship,10,TL,fishbase,Apogon pacificus
+Acar,domingensis,Mollusca,Bivalvia,Arcoida,Arcidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,2.12,TL,sealifebase,Acar domingensis
+Ascidia,ceratodes,Chordata,Ascidiacea,Enterogona,Ascidiidae,Marine,marine,sealifebase,ectotherm,demersal,demersal,sealifebase,sessile,,NA,NA,16,TL,Cheney et al. 1997 https://doi.org/10.1016/S0742-8413(96)00194-6,Ascidia ceratodes
+Atherinops,affinis,Chordata,Actinopteri,Atheriniformes,Atherinopsidae,Marine,brackish,fishbase,ectotherm,pelagic,pelagic-neritic,fishbase,swim,,333.0920762,fishbase from LW relationship,37,TL,fishbase,Atherinops affinis
+Menidia,menidia,Chordata,Actinopteri,Atheriniformes,Atherinopsidae,Marine,brackish,fishbase,ectotherm,pelagic,pelagic-neritic,fishbase,swim,,21.62322002,fishbase from LW relationship,15,TL,fishbase,Menidia menidia
+Lipophrys,trigloides,Chordata,Actinopteri,Perciformes,Blenniidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,20.43,fishbase from LW relationship of related species,13,TL,fishbase,Lipophrys trigloides
+Parablennius,marmoreus,Chordata,Actinopteri,Perciformes,Blenniidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,8,LW relationship from Camilato et al. 2010 https://doi.org/10.1111/j.1439-0426.2009.01343.x,8.5,TL,fishbase,Parablennius marmoreus
+Plagiotremus,azaleus,Chordata,Actinopteri,Perciformes,Blenniidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,NA,NA,10,TL,fishbase,Plagiotremus azaleus
+Metacarcinus,magister,Arthropoda,Malacostraca,Decapoda,Cancridae,Marine,brackish,sealifebase,ectotherm,demersal,demersal,sealifebase,crawl,,1500,http://www.specialistidelvivo.com/granciporro_cancer-magister_eng.asp,22.5,CW,sealifebase,Metacarcinus magister
+Eucidaris,tribuloides,Echinodermata,Echinoidea,Cidaroida,Cidaridae,Marine,marine,sealifebase,ectotherm,demersal,benthic,sealifebase,crawl,,NA,NA,13,WD,sealifebase,Eucidaris tribuloides
+Cirrhitichthys,oxycephalus,Chordata,Actinopteri,Perciformes,Cirrhitidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,18.06671054,fishbase from LW relationship,10,TL,fishbase,Cirrhitichthys oxycephalus
+Distaplia,occidentalis,Chordata,Ascidiacea,Enterogona,Clavelinidae,Marine,marine,sealifebase,ectotherm,demersal,demersal,sealifebase,sessile,,NA,NA,10,TD,sealifebase,Distaplia occidentalis
+Clupea,harengus,Chordata,Actinopteri,Clupeiformes,Clupeidae,Marine,brackish,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,1050,fishbase,51.9903,TL,fishbase from LL relationship,Clupea harengus
+Sardinops,melanosticta,Chordata,Actinopteri,Clupeiformes,Clupeidae,Marine,marine,fishbase,ectotherm,pelagic,pelagic-neritic,fishbase,swim,,486,fishbase,46.6236275,TL,fishbase from LL relationship,Sardinops sagax
+Clinocottus,globiceps,Chordata,Actinopteri,Perciformes,Cottidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,NA,NA,19,TL,fishbase,Clinocottus globiceps
+Leptocottus,armatus,Chordata,Actinopteri,Perciformes,Cottidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,1954.506309,fishbase from LW relationship,46,TL,fishbase,Leptocottus armatus
+Myoxocephalus,quadricornis_hexacornis,Chordata,Actinopteri,Perciformes,Cottidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,260,fishbase,60,TL,fishbase,Myoxocephalus quadricornis
+Crangon,crangon,Arthropoda,Malacostraca,Decapoda,Crangonidae,Marine,brackish,sealifebase,ectotherm,demersal,benthic,sealifebase,swim,,3.345,Haefner & Spaargaren 1993 https://doi.org/10.2307/1548792,8.899999619,TL,sealifebase,Crangon crangon
+Cyprinodon,dearborni,Chordata,Actinopteri,Cyprinodontiformes,Cyprinodontidae,Marine,freshwater,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,NA,NA,4,TL,fishbase,Cyprinodon dearborni
+Cyprinodon,variegatus,Chordata,Actinopteri,Cyprinodontiformes,Cyprinodontidae,Marine,brackish,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,18.33343443,fishbase from LW and LL relationship,9,TL,fishbase,Cyprinodon variegatus variegatus
+Floridichthys,carpio,Chordata,Actinopteri,Cyprinodontiformes,Cyprinodontidae,Marine,brackish,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,NA,NA,8,TL,fishbase,Floridichthys carpio
+Dasyatis,sabina,Chordata,Chondrichthyes,Myliobatiformes,Dasyatidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,4870,fishbase,61,WD,fishbase,Dasyatis sabina
+Donax,serra,Mollusca,Bivalvia,Veneroida,Donacidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,6.5,anterior-posterior,Donn 1987 http://www.int-res.com/articles/meps/35/m035p217.pdf,Donax serra
+Donax,sordidus,Mollusca,Bivalvia,Veneroida,Donacidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,2.8,greatest shell length,McLachan 1978 https://www.ajol.info/index.php/az/article/view/151464,Donax sordidus
+Sterechinus,neumayeri,Echinodermata,Echinoidea,Echinoida,Echinidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,sealifebase,crawl,,NA,NA,7,TD,Brey et al. 1995 https://doi.org/10.1007/BF00347132,Sterechinus neumayeri
+Echinometra,lucunter,Echinodermata,Echinoidea,Echinoida,Echinometridae,Marine,marine,sealifebase,ectotherm,demersal,reef-associated,sealifebase,crawl,,NA,NA,15,WD,sealifebase,Echinometra lucunter
+Engraulis,japonicus,Chordata,Actinopteri,Clupeiformes,Engraulidae,Marine,marine,fishbase,ectotherm,pelagic,pelagic-neritic,fishbase,swim,,45,fishbase,18,TL,fishbase,Engraulis japonicus
+Fundulus,parvipinnis,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Marine,brackish,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,21.50083019,fishbase from LW and LL relationship,10.8,TL,fishbase,Fundulus parvipinnis
+Lucania,parva,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Marine,amphidromous,fishbase,ectotherm,pelagic,pelagic-neritic,fishbase,swim,,8.54,fishbase from LW relationship,6.2,TL,fishbase,Lucania parva
+Boreogadus,saida,Chordata,Actinopteri,Gadiformes,Gadidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,536.4284749,fishbase from LW relationship,40,TL,fishbase,Boreogadus saida
+Gammarus,locusta,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Marine,brackish,sealifebase,ectotherm,demersal,demersal,sealifebase,swim,,0.056,weight-length relationship from Costa & Costa 1999,0.16,TL,Costa & Costa 1999 ,Gammarus locusta
+Apeltes,quadracus<ca>,Chordata,Actinopteri,Perciformes,Gasterosteidae,Marine,brackish,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,NA,NA,6.4,TL,fishbase,Apeltes quadracus
+Pungitius,pungitius,Chordata,Actinopteri,Perciformes,Gasterosteidae,Marine,anadromous,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,5.458177143,fishbase from LW and LL relationship,9,TL,fishbase,Pungitius pungitius
+Eucinostomus,gracilis,Chordata,Actinopteri,Perciformes,Gerreidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,195.1813297,fishbase from LW relationship,21,TL,fishbase,Eucinostomus gracilis
+Gobiesox,strumosus,Chordata,Actinopteri,Blenniiformes,Gobiesocidae,Marine,brackish,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,7.063031939,fishbase from LW relationship,8,TL,fishbase,Gobiesox strumosus
+Bathygobius,fuscus,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,amphidromous,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,NA,NA,12,TL,fishbase,Bathygobius fuscus
+Bathygobius,ramosus,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,NA,NA,20,TL,fishbase,Bathygobius ramosus
+Bathygobius,sp.1,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase (from other species within genus),swim,,10,comparison against other Gobiinae subfamily in fishbase,9.3,TL,fishbase (mean of entire genus),NA
+Bathygobius,sp.2,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase (from other species within genus),swim,,10,comparison against other Gobiinae subfamily in fishbase,9.3,TL,fishbase (mean of entire genus),NA
+Coryphopterus,urospilus,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,3.044917822,fishbase from LW relationship,6.5,TL,fishbase,Coryphopterus urospilus
+Gillichthys,mirabilis,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,183.6162071,fishbase from LW and reverse LL relationship,21,TL,fishbase,Gillichthys mirabilis
+Gobius,niger,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,74.95587521,fishbase from LW relationship,18,TL,fishbase,Gobius niger
+Gobius,paganellus,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,amphidromous,fishbase,ectotherm,demersal,demersal,fishbase,swim,,30.00198061,fishbase from LW relationship,13,TL,fishbase,Gobius paganellus
+Periophthalmus,kalolo,Chordata,Actinopteri,Perciformes,Gobiidae,Marine,brackish,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,NA,NA,17.03139212,TL,fishbase from reverse LL relationship,Periophthalmus kalolo
+Haemulon,bonariense,Chordata,Actinopteri,Perciformes,Haemulidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,1177.253067,fishbase from LW relationship,40,TL,fishbase,Haemulon bonariense
+Haemulon,steindachneri,Chordata,Actinopteri,Perciformes,Haemulidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,300,fishbase,30,TL,fishbase,Haemulon steindachneri
+Hippolyte,obliquimanus,Arthropoda,Malacostraca,Decapoda,Hippolytidae,Marine,marine,sealifebase,ectotherm,demersal,demersal,sealifebase,swim,https://books.google.com/books?id=tUl5ESavtRIC&pg=PA305#v=onepage&q&f=false,1,only up to 3.4 mm carapace length. See Terossi et al. 2008 Marine Biology,0.34,carapace length,only up to 3.4 mm carapace length. See Terossi et al. 2008 Marine Biology,Hippolyte obliquimanus
+Saduria,entomon,Arthropoda,Malacostraca,Isopoda,Idoteidae,Marine,brackish,sealifebase,ectotherm,demersal,benthic,sealifebase,swim,Haahtela 1990 www.jstor.org/stable/23736048,10,Haahtela 1990 www.jstor.org/stable/23736048,8.6,body length,Aquascope,Saduria entomon
+Kuhlia,sandvicensis,Chordata,Actinopteri,Perciformes,Kuhliidae,Marine,amphidromous,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,169.53125,fishbase from LW relationship,25,TL,fishbase,Kuhlia sandvicensis
+Girella,nigricans,Chordata,Actinopteri,Perciformes,Kyphosidae,Marine,marine,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,11403.85914,fishbase from LW and LL relationship,66,TL,fishbase,Girella nigricans
+Halichoeres,dispilus,Chordata,Actinopteri,Perciformes,Labridae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,NA,NA,25,TL,fishbase,Halichoeres dispilus
+Scarus,iseri<ca>,Chordata,Actinopteri,Perciformes,Labridae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,766.38,fishbase from LW relationship,35,TL,fishbase,Scarus iserti
+Tautogolabrus,adspersus,Chordata,Actinopteri,Perciformes,Labridae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,1000,fishbase,38,TL,fishbase,Tautogolabrus adspersus
+Thalassoma,lucasanum,Chordata,Actinopteri,Perciformes,Labridae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,30.5605516,fishbase from LW relationship,15,TL,fishbase,Thalassoma lucasanum
+Malacoctenus,zonifer,Chordata,Actinopteri,Perciformes,Labrisomidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,NA,NA,8,TL,fishbase,Malacoctenus zonifer
+Laternula,elliptica,Mollusca,Bivalvia,Pholadomyoida,Laternulidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,EOL,NA,NA,8.3,SHL,sealifebase,Laternula elliptica
+Eudorella,splendida,Arthropoda,Malacostraca,Cumacea,Leuconidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,sealifebase,crawl,EOL (Cumacea),1,only up to 8.5 mm body length. See Blazewicz-Paszkowycz 2001 Polish Polar Research,0.85,body length,only up to 8.5 mm body length. See Blazewicz-Paszkowycz 2001 Polish Polar Research,Eudorella splendida
+Limatula,hodgsoni,Mollusca,Bivalvia,Limoida,Limidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,swim,http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Limidae.html,NA,NA,2.3,SHL,sealifebase,Limatula hodgsoni
+Limopsis,marionensis,Mollusca,Bivalvia,Arcoida,Limopsidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,3.6,SHL,sealifebase,Limopsis marionensis
+Lutjanus,apodus,Chordata,Actinopteri,Perciformes,Lutjanidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,10800,fishbase,67.2,TL,fishbase,Lutjanus apodus
+Lutjanus,guttatus,Chordata,Actinopteri,Perciformes,Lutjanidae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,1310,fishbase,80,TL,fishbase,Lutjanus guttatus
+Onisimus,litoralis,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,Weslawski et al. 2006 http://www.polish.polar.pan.pl/ppr27/ppr27-259.pdf,crawl,,1,Boudrias & Carey 1988 Marine Ecology. only up to 17 mm,1.7,unknown,Boudrias & Carey 1988 Marine Ecology. only up to 17 mm,Onisimus litoralis
+Orchomene,pinguides,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,"from other species in genus on sealifebase & ""lives on water-cut benches"" Slattery & Oliver 1986 https://doi.org/10.1007/BF00274880",swim,,1,only 7.5 mm body length. See Bates et al. 2010 Nat Comm supplemental table.,0.75,body length,only 7.5 mm body length. See Bates et al. 2010 Nat Comm supplemental table.,Orchomene pinguides
+Mulinia,lateralis,Mollusca,Bivalvia,Veneroida,Mactridae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,1.5,DL,sealifebase,Mulinia lateralis
+Dicentrarchus,labrax,Chordata,Actinopteri,Perciformes,Moronidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,12000,fishbase,103,TL,fishbase,Dicentrarchus labrax
+Ellochelon,vaigiensis,Chordata,Actinopteri,Mugiliformes,Mugilidae,Marine,catadromous,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,4314.412157,fishbase from LW relationship,63,TL,fishbase,Ellochelon vaigiensis
+Liza,ramada,Chordata,Actinopteri,Mugiliformes,Mugilidae,Marine,catadromous,fishbase,ectotherm,pelagic,pelagic-neritic,fishbase,swim,,2900,fishbase,70,TL,fishbase,Liza ramada
+Mugil,curema,Chordata,Actinopteri,Mugiliformes,Mugilidae,Marine,catadromous,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,680,fishbase,90,TL,fishbase,Mugil curema
+Mullus,barbatus,Chordata,Actinopteri,Syngnathiformes,Mullidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,680,fishbase,37.00800281,TL,fishbase from reverse LL relationship,Mullus barbatus barbatus
+Mullus,surmuletus,Chordata,Actinopteri,Syngnathiformes,Mullidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,1000,fishbase,47.55544583,TL,fishbase from reverse LL relationship,Mullus surmuletus
+Trophonella,longstafi,Mollusca,Gastropoda,Neogastropoda,Muricidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,WoRMS,crawl,,NA,NA,1.5,DL,sealifebase,Trophonella longstaffi
+Mya,arenaria,Mollusca,Bivalvia,Myoida,Myidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,http://www.iucngisd.org/gisd/species.php?sc=1159,NA,NA,10,TL,sealifebase,Mya arenaria
+Aulacomya,atra<ca>,Mollusca,Bivalvia,Mytiloida,Mytilidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,16,DL,sealifebase,Aulacomya atra
+Choromytilus,chorus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Marine,marine,WoRMS,ectotherm,demersal,demersal,sealifebase,sessile,,NA,NA,5,SL,sealifebase,Choromytilus chorus
+Bullia,rhodostoma,Mollusca,Gastropoda,Neogastropoda,Nassariidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,crawl,,NA,NA,4.5,greatest shell length,McLachan et al. 1978 https://doi.org/10.1080/02541858.1979.11447647,Bullia rhodostoma
+Trematomus,bernacchii,Chordata,Actinopteri,Perciformes,Nototheniidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,NA,NA,28,TL,fishbase,Trematomus bernacchii
+Trematomus,borchgrevinki,Chordata,Actinopteri,Perciformes,Nototheniidae,Marine,marine,fishbase,ectotherm,pelagic,pelagic-oceanic,fishbase,swim,,NA,NA,28,TL,fishbase,Pagothenia borchgrevinki
+Trematomus,hansoni,Chordata,Actinopteri,Perciformes,Nototheniidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,997.7758405,fishbase from LW relationship,41,TL,fishbase,Trematomus hansoni
+Nymphon,sp.1,Arthropoda,Pycnogonida,Pantopoda,Nymphonidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,WoRMS,crawl,,1,only 12.5 mm body length. See Bates et al. 2010 Nat Comm supplemental table.,1.25,body length,only 12.5 mm body length. See Bates et al. 2010 Nat Comm supplemental table.,NA
+Odontaster,validus,Echinodermata,Asteroidea,Valvatida,Odontasteridae,Marine,marine,sealifebase,ectotherm,demersal,benthic,sealifebase,crawl,,25.7,Brose et al. dataset,11,TD,Encyclopedia of Life,Odontaster validus
+Ophioneries,fasciata,Echinodermata,Ophiuroidea,Ophiurida,Ophionereidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,http://www.marinelife.ac.nz/species/944,crawl,,NA,NA,20,arm-body diameter-arm,estimate from Vopel et al. 2003 https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.4319/lo.2003.48.5.2034; Fujita et al. 2011 http://www.kahaku.go.jp/research/publication/zoology/download/37_4/BNMNS_A370406.pdf,Ophionereis fasciata
+Palaemon,longirostris,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Marine,catadromous,sealifebase,ectotherm,demersal,demersal,sealifebase,swim,,0.49,mean weight from Gonzalez-Ortegon et al. 2010 10.1007/s10530-009-9585-2,7,TL,sealifebase,Palaemon longirostris
+Adamussium,colbecki,Mollusca,Bivalvia,Pectinoida,Pectinidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,9,SHL,sealifebase,Adamussium colbecki
+Argopecten,purpuratus,Mollusca,Bivalvia,Pectinoida,Pectinidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,12,SL,sealifebase,Argopecten purpuratus
+Ensis,macha,Mollusca,Bivalvia,Veneroida,Pharidae,Marine,marine,WoRMS,,demersal,benthic,sealifebase,sessile,,NA,NA,16.5,,"Baron et al. 2004 https://doi.org/10.3989/scimar.2004.68n2211	",Ensis macha
+Philomedidae,sp.1,Arthropoda,Ostracoda,Myodocopida,Philomedidae,Marine,marine,WoRMS,ectotherm,demersal,NA,"from other species in genus on sealifebase & ""sponge spicule mat"" Bates et al. 2010 Supplement 2",swim,Lum et al. 2008 iZootaxa https://labs.eemb.ucsb.edu/oakley/todd/publications/112,1,only 1 mm body length. See Bates et al. 2010 Nat Comm supplemental table.,0.1,body length,only 1 mm body length. See Bates et al. 2010 Nat Comm supplemental table.,NA
+Heterophoxus,videns,Arthropoda,Malacostraca,Amphipoda,Phoxocephalidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,sealifebase,swim,,1,only up to 10 mm body length. See Dauby et al. 2001 Hydrobiologia. Or Bates et al. 2010 Nat Comm supplemental table.,1,body length,only up to 10 mm body length. See Dauby et al. 2001 Hydrobiologia. Or Bates et al. 2010 Nat Comm supplemental table.,Heterophoxus videns
+Platichthys,flesus,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Marine,catadromous,fishbase,ectotherm,demersal,demersal,fishbase,swim,,2930,fishbase,60,TL,fishbase,Platichthys flesus
+pleuronectus,platessa,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,7000,fishbase,100,TL,fishbase,Pleuronectes platessa
+Pseudopleuronectes,americanus,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,3600,fishbase,64,TL,fishbase,Pseudopleuronectes americanus
+Liocarcinus,marmoreus,Arthropoda,Malacostraca,Decapoda,Polybiidae,Marine,marine,sealifebase,ectotherm,demersal,demersal,sealifebase,swim,"""marbled swimming crab""",5,only up to 35 mm carapace length. See https://en.wikipedia.org/wiki/Liocarcinus_marmoreus and http://www.marlin.ac.uk/species/detail/1173,3.5,carapace length,only up to 35 mm carapace length. See https://en.wikipedia.org/wiki/Liocarcinus_marmoreus and http://www.marlin.ac.uk/species/detail/1173,Liocarcinus marmoreus
+Abudefduf,saxatilis,Chordata,Actinopteri,Perciformes,Pomacentridae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,200,fishbase,22.9,TL,fishbase,Abudefduf saxatilis
+Chromis,atrilobata,Chordata,Actinopteri,Perciformes,Pomacentridae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,37.04176568,fishbase from LW relationship,13.4,TL,fishbase,Chromis atrilobata
+Dascyllus,aruanus,Chordata,Actinopteri,Perciformes,Pomacentridae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,22.3999814,fishbase from LW relationship,10,TL,fishbase,Dascyllus aruanus
+Stegastes,acapulcoensis,Chordata,Actinopteri,Perciformes,Pomacentridae,Marine,marine,fishbase,ectotherm,demersal,reef-associated,fishbase,swim,,NA,NA,17,TL,fishbase,Stegastes acapulcoensis
+Paramoera,walkeri,Arthropoda,Malacostraca,Amphipoda,Pontogeneiidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,sealifebase,swim,,1,only 6 mm body length. See Bates et al. 2010 Nat Comm supplemental table.,0.6,body length,only 6 mm body length. See Bates et al. 2010 Nat Comm supplemental table.,Paramoera walkeri
+Gari,solida,Mollusca,Bivalvia,Veneroida,Psammobiidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,WoRMS,sessile,,NA,NA,8.6,anterior-posterior,Urban & Campos 1994  https://doi.org/10.1007/BF00349255,Gari solida
+Onoba,gelida,Mollusca,Gastropoda,Littorinimorpha,Rissoidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,crawl,,NA,NA,0.294,DL,sealifebase,Onoba gelida
+Rivulus,marmoratus,Chordata,Actinopteri,Cyprinodontiformes,Rivulidae,Marine,brackish,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,NA,NA,7.5,TL,fishbase,Kryptolebias marmoratus
+Oncorhynchus,tshawytscha,Chordata,Actinopteri,Salmoniformes,Salmonidae,Marine,anadromous,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,61400,fishbase,150,TL,fishbase,Oncorhynchus tshawytscha
+Scorpaena,porcus,Chordata,Actinopteri,Perciformes,Scorpaenidae,Marine,marine,fishbase,ectotherm,demersal,demersal,fishbase,swim,,870,fishbase,40.5,TL,fishbase,Scorpaena porcus
+Semele,corrugata,Mollusca,Bivalvia,Veneroida,Semelidae,Marine,marine,WoRMS,ectotherm,demersal,benthic,WoRMS,sessile,,NA,NA,9.78,shell length,Coan 1988 https://www.researchgate.net/profile/Eugene_Coan/publication/275463195_Recent_eastern_Pacific_species_of_the_bivalve_genus_Semele/links/553cfffb0cf245bdd7691cc4.pdf,NA
+Semele,solida,Mollusca,Bivalvia,Veneroida,Semelidae,Marine,marine,WoRMS,ectotherm,demersal,demersal,sealifebase,sessile,,NA,NA,8.08,shell length,Coan 1988 https://www.researchgate.net/profile/Eugene_Coan/publication/275463195_Recent_eastern_Pacific_species_of_the_bivalve_genus_Semele/links/553cfffb0cf245bdd7691cc4.pdf,Semele solida
+Tagelus,dombeii,Mollusca,Bivalvia,Veneroida,Solecurtidae,Marine,marine,WoRMS,ectotherm,demersal,demersal,sealifebase,sessile,,NA,NA,6.7,shell length,Abrahao et al. 2010 http://dx.doi.org/10.1590/S1984-46702010000100009,Tagelus dombeii
+Pegusa,lascaris,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,1130.764162,fishbase from LW relationship,44.5401067,TL,fishbase from reverse LL relationship,Pegusa lascaris
+Diplodus,bellottii,Chordata,Actinopteri,Spariformes,Sparidae,Marine,marine,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,969.6436028,fishbase from LW relationship,35.8065,TL,fishbase from LL relationship,Diplodus bellottii
+Diplodus,sargus,Chordata,Actinopteri,Spariformes,Sparidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,1870,fishbase,45,TL,fishbase,Diplodus sargus sargus
+Diplodus,vulgaris,Chordata,Actinopteri,Spariformes,Sparidae,Marine,marine,fishbase,ectotherm,demersal,benthopelagic,fishbase,swim,,1300,fishbase,45,TL,fishbase,Diplodus vulgaris
+Cnemidocarpa,bicornuta,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Marine,marine,sealifebase,ectotherm,demersal,demersal,sealifebase,sessile,,NA,NA,4.3,TL,sealifebase (avg. of all available for genus),Cnemidocarpa bicornuta
+Pseudechinus,huttoni,Echinodermata,Echinoidea,Temnopleuroida,Temnopleuridae,Marine,marine,WoRMS,ectotherm,demersal,benthic,WoRMS,crawl,,NA,NA,4,TD,Kirby et al. 2010 https://doi.org/10.1080/00288330.2006.9517432,NA
+Liothyrella,neozelanica,Brachiopoda,Rhynchonellata,Terebratulida,Terebratulidae,Marine,marine,sealifebase,ectotherm,demersal,demersal,sealifebase,sessile,,8,Approximation from ratio of adductor muscle weights/shell length/wet weight - Peck et al. 1986 liothyrella neozelanica weight & Lurman et al. 2010 https://doi.org/10.1007/s00227-009-1374-z,4.83,shell length,Lurman et al. 2010 https://doi.org/10.1007/s00227-009-1374-z,Liothyrella neozelanica
+Liothyrella,uva,Brachiopoda,Rhynchonellata,Terebratulida,Terebratulidae,Marine,marine,sealifebase,ectotherm,demersal,benthic,sealifebase,sessile,,8,Peck et al. 1986 liothyrella neozelanica weight,3.56,shell length,Lurman et al. 2010 https://doi.org/10.1007/s00227-009-1374-z,Liothyrella uva
+Sphoeroides,maculatus,Chordata,Actinopteri,Tetraodontiformes,Tetraodontidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,NA,NA,36,TL,fishbase,Sphoeroides maculatus
+Margarites,refulgens,Mollusca,Gastropoda,Trochoidea,Trochidae,Marine,marine,WoRMS,ectotherm,demersal,demersal,sealifebase,crawl,,NA,NA,0.6,DL,sealifebase,Margarites refulgens
+Cookia,sulcata,Mollusca,Gastropoda,Vetigastropoda,Turbinidae,Marine,marine,WoRMS,ectotherm,demersal,demersal,sealifebase,crawl,,15,Wet meat weight (without shell);  Anderson 1981 https://doi.org/10.1016/0305-4403(81)90020-0,8.5,linear body dimension,Taylor 1998 10.3354/meps172037,Cookia sulcata
+Gemma,gemma,Mollusca,Bivalvia,Veneroida,Veneridae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,0.4,DL,sealifebase,Gemma gemma
+Protothaca,thaca,Mollusca,Bivalvia,Veneroida,Veneridae,Marine,marine,WoRMS,ectotherm,demersal,benthic,sealifebase,sessile,,NA,NA,8,SHL,sealifebase,Leukoma thaca
+Venus,antiqua,Mollusca,Bivalvia,Veneroida,Veneridae,Marine,marine,WoRMS,ectotherm,demersal,benthic,WoRMS,sessile,,NA,NA,7.75,SHL,sealifebase (avg. of all available for genus),Leukoma antiqua
+Pachycara,brachycephalum,Chordata,Actinopteri,Perciformes,Zoarcidae,Marine,marine,fishbase,ectotherm,demersal,bathydemersal,fishbase,swim,,NA,NA,35,TL,fishbase,Pachycara brachycephalum
+Zoarces,viviparus,Chordata,Actinopteri,Perciformes,Zoarcidae,Marine,brackish,fishbase,ectotherm,demersal,demersal,fishbase,swim,,510,fishbase,52,TL,fishbase,Zoarces viviparus
+Anax,junius,Arthropoda,Insecta,Odonata,Aeshnidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0816,mean from Brose et al. dataset,NA,NA,NA,NA
+Amphibolurus,muricatus,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,66.82,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenophorus,cristatus,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,47.51,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenophorus,decresii,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,24.09,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenophorus,fordi,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6.16,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenophorus,maculosus,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.04,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenophorus,nuchalis,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,70.2,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenophorus,pictus,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,13.62,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenophorus,reticulatus,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,42.44,Slavenko et al. 2016 database,NA,NA,NA,NA
+Laudakia,stellio,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,334.57,Slavenko et al. 2016 database,NA,NA,NA,Stellagama stelio
+Lophognathus,gilberti,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,84.86,Slavenko et al. 2016 database,NA,NA,NA,NA
+Moloch,horridus,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,61.97,Slavenko et al. 2016 database,NA,NA,NA,NA
+Rankinia,diemensis,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,19.45,Slavenko et al. 2016 database,NA,NA,NA,NA
+Trapelus,savignii,Chordata,Lepidosauria,Squamata,Agamidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,63.56,Slavenko et al. 2016 database,NA,NA,NA,NA
+Deroceras,reticulatum,Mollusca,Gastropoda,Stylommatophora,Agriolimacidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1,Cookies on Invasive Species Compendium,5,body length,Cookies on Invase Species Compendium,NA
+Ambystoma,jeffersonianum,Chordata,Amphibia,Caudata,Ambystomatidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,17.2,AmphiBIO,21,body length,AmphiBIO,NA
+Ambystoma,macrodactylum,Chordata,Amphibia,Caudata,Ambystomatidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,24.8,body length,AmphiBIO,NA
+Ambystoma,maculatum,Chordata,Amphibia,Caudata,Ambystomatidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,24,AmphiBIO,24.8,body length,AmphiBIO,NA
+Halozetes,fulvus,Arthropoda,Arachnida,Oribatida,Ameronothridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Podacarus,auberti,Arthropoda,Arachnida,Oribatida,Ameronothridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Elgaria,coerulea,Chordata,Lepidosauria,Squamata,Anguidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,45.68,Slavenko et al. 2016 database,NA,NA,NA,NA
+Elgaria,multicarinata,Chordata,Lepidosauria,Squamata,Anguidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,116.54,Slavenko et al. 2016 database,NA,NA,NA,NA
+Anniella,pulchra,Chordata,Lepidosauria,Squamata,Anniellidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.55,Slavenko et al. 2016 database,NA,NA,NA,NA
+Armadillidium,vulgare,Arthropoda,Malacostraca,Isopoda,Armadillidiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.116,AnimalDiversity.org Holland 2014,1.8,body length,AnimalDiversity.org Holland 2014,NA
+Charina,bottae,Chordata,Lepidosauria,Squamata,Boidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,292.24,Slavenko et al. 2016 database,NA,NA,NA,NA
+Bothrometopus,brevis,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Bothrometopus,elongatus,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Bothrometopus,gracilipes,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Bothrometopus,parvulus_parvulus,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Bothrometopus,randi,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Ectemnorhinus,marioni,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Ectemnorhinus,similis,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Ectemnorhinus,viridis,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Palirhoeus,eatoni,Arthropoda,Insecta,Coleoptera,Brachyceridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Anaxyrus,compactilis,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,9.1,body length,AmphiBIO,NA
+Bufo,alvarius,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,237.7,AmphiBIO,NA,NA,NA,Incilius alvarius
+Bufo,boreas,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,12.5,body length,AmphiBIO,Anaxyrus boreas
+Bufo,canaliferus,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,Incilius canaliferus
+Bufo,canorus,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,6.9,body length,AmphiBIO,Anaxyrus canorus
+Bufo,cognatus,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,25,AmphiBIO,11.4,body length,AmphiBIO,Anaxyrus cognatus
+Bufo,debilis,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,5.4,body length,AmphiBIO,Anaxyrus debilis
+Bufo,exsul,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,52,AmphiBIO,7.1,body length,AmphiBIO,Anaxyrus exsul
+Bufo,haemititicus,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,11.13,body length,AmphiBIO,Rhaebo haematiticus
+Bufo,marinus,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,106.25,AmphiBIO,24.1,body length,AmphiBIO,Rhinella marina
+Bufo,marmoreus,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,Incilius marmoreus
+Bufo,mazatlanensis,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,Incilius mazatlanensis
+Bufo,nelsoni,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,Anaxyrus nelsoni
+Bufo,woodhousii_fowleri,Chordata,Amphibia,Anura,Bufonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,16.4,AmphiBIO,12.7,body length,AmphiBIO,Anaxyrus woodhousii
+Boreellus,atriceps,Arthropoda,Insecta,Diptera,Calliphoridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0261,mean from Brose et al. dataset,NA,NA,NA,NA
+Platymantis,banahao,Chordata,Amphibia,Anura,Ceratobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,3.96,body length,AmphiBIO,NA
+Platymantis,corrugatus,Chordata,Amphibia,Anura,Ceratobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,4.15,body length,AmphiBIO,NA
+Platymantis,dorsalis,Chordata,Amphibia,Anura,Ceratobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,3.54,body length,AmphiBIO,NA
+Platymantis,luzonensis,Chordata,Amphibia,Anura,Ceratobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,3.62,body length,AmphiBIO,NA
+Chamaeleo,bitaeniatus,Chordata,Lepidosauria,Squamata,Chamaeleonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,145.87,Slavenko et al. 2016 database,NA,NA,NA,Trioceros bitaeniatus
+Chamaeleo,dilepis,Chordata,Lepidosauria,Squamata,Chamaeleonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,138.13,Slavenko et al. 2016 database,NA,NA,NA,NA
+Chamaeleo,ellioti,Chordata,Lepidosauria,Squamata,Chamaeleonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,21.26,Slavenko et al. 2016 database,NA,NA,NA,Trioceros ellioti
+Chamaeleo,hoehnelii,Chordata,Lepidosauria,Squamata,Chamaeleonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,29.85,Slavenko et al. 2016 database,NA,NA,NA,Trioceros hoehnelii
+Chamaeleo,jacksonii,Chordata,Lepidosauria,Squamata,Chamaeleonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,91.18,Slavenko et al. 2016 database,NA,NA,NA,Trioceros jacksonii
+Chamaeleo,schubotzi,Chordata,Lepidosauria,Squamata,Chamaeleonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14,Slavenko et al. 2016 database,NA,NA,NA,Trioceros schubotzi
+Chironomus,sp.1,Arthropoda,Insecta,Diptera,Chironomidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0000614,mean from Brose et al. dataset,NA,NA,NA,NA
+Chirodica,chalcoptera,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0023,mean from Brose et al. dataset,NA,NA,NA,NA
+Chrysomela,aeneicollis,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0023,mean from Brose et al. dataset,NA,NA,NA,NA
+Clubiona,diversa,Arthropoda,Arachnida,Araneae,Clubionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,0.5,body length,Araneae,NA
+Clubiona,similis,Arthropoda,Arachnida,Araneae,Clubionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,0.8,body length,Araneae,NA
+Clubiona,trivialis,Arthropoda,Arachnida,Araneae,Clubionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,0.6,body length,Araneae,NA
+Arizona,elegans,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,506.78,Slavenko et al. 2016 database,NA,NA,NA,NA
+Chionactis,occipitalis,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,13.92,Slavenko et al. 2016 database,NA,NA,NA,NA
+Coluber,constrictor,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,606.91,Slavenko et al. 2016 database,NA,NA,NA,NA
+Coluber,flagellum,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1326.23,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lampropeltis,getulus,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,755.36,Slavenko et al. 2016 database,NA,NA,NA,Lampropeltis getula
+Lampropeltis,zonata,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,198.28,Slavenko et al. 2016 database,NA,NA,NA,NA
+Masticophis,anthonyi,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,306.4,Slavenko et al. 2016 database,NA,NA,NA,Coluber anthonyi
+Masticophis,lateralis,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,339.39,Slavenko et al. 2016 database,NA,NA,NA,Coluber lateralis
+Phyllorhynchus,decurtatus,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,21.2,Slavenko et al. 2016 database,NA,NA,NA,NA
+Pituophis,catenifer,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1586.31,Slavenko et al. 2016 database,NA,NA,NA,NA
+Rhinocheilus,lecontei,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,339.39,Slavenko et al. 2016 database,NA,NA,NA,NA
+Storeria,occipitomaculata,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14.93,Slavenko et al. 2016 database,NA,NA,NA,in another family (Natricidae)
+Thamnophis,elegans,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,377.24,Slavenko et al. 2016 database,NA,NA,NA,in another family (Natricidae)
+Thamnophis,ordinoides,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,247.99,Slavenko et al. 2016 database,NA,NA,NA,in another family (Natricidae)
+Thamnophis,radix,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,382.99,Slavenko et al. 2016 database,NA,NA,NA,in another family (Natricidae)
+Thamnophis,sirtalis,Chordata,Lepidosauria,Squamata,Colubridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,862.3,Slavenko et al. 2016 database,NA,NA,NA,in another family (Natricidae)
+Cordylus,cordylus,Chordata,Lepidosauria,Squamata,Cordylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,26.98,Slavenko et al. 2016 database,NA,NA,NA,NA
+Cordylus,niger,Chordata,Lepidosauria,Squamata,Cordylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,20,Slavenko et al. 2016 database,NA,NA,NA,NA
+Cordylus,oelofseni,Chordata,Lepidosauria,Squamata,Cordylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.12,Slavenko et al. 2016 database,NA,NA,NA,NA
+Platysaurus,intermedius,Chordata,Lepidosauria,Squamata,Cordylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,67.28,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phrurolithus,festivus,Arthropoda,Arachnida,Araneae,Corinnidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,0.32,body length,Araneae,NA
+Craugastor,fleischmanni,Chordata,Amphibia,Anura,Craugastoridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,7.5,body length,AmphiBIO,NA
+Canonopsis,sericeus,Arthropoda,Insecta,Coleoptera,Curculionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Dendrobates,auratus,Chordata,Amphibia,Anura,Dendrobatidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,4.2,body length,AmphiBIO,NA
+Myro,kerguelenensis,Arthropoda,Arachnida,Araneae,Desidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Limnonectes,woodworthi,Chordata,Amphibia,Anura,Dicroglossidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,7.57,body length,AmphiBIO,NA
+Occidozyga,laevis,Chordata,Amphibia,Anura,Dicroglossidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,4.8,body length,AmphiBIO,NA
+Paa,spinosa,Chordata,Amphibia,Anura,Dicroglossidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,161,AmphiBIO,10.1,body length,AmphiBIO,Quasipaa spinosa
+Drosophila,angularis,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,auraria,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,biauraria,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,bipectinata,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,birchii,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,bizonata,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,bocki,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,brachynephros,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,curviceps,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,curvispina,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,daruma,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,elegans,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,ficusphila,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,guttifera,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,immigrans,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,kanekoi,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,lacertosa,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,lacteicornis,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,lutescens,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,neotestacea,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,nigromaculata,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,orientacea,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,putrida,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,quadrilineata,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,recens,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,ruberrima,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,rufa,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,serrata,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,sternopleuralis,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,suzukii,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,takahashii,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,unispina,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Drosophila,validus,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Hirtodrosophila,histrioides,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Scaptodrosophila,bryani,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Scaptodrosophila,coracina,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Scaptodrosophila,dorsocentralis,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Scaptodrosophila,pallida,Arthropoda,Insecta,Diptera,Drosophilidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Austrelaps,superbus,Chordata,Lepidosauria,Squamata,Elapidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,905.09,Slavenko et al. 2016 database,NA,NA,NA,NA
+Hemachatus,haemachatus,Chordata,Lepidosauria,Squamata,Elapidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,669.66,Slavenko et al. 2016 database,NA,NA,NA,NA
+Notechis,scutatus,Chordata,Lepidosauria,Squamata,Elapidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1338.38,Slavenko et al. 2016 database,NA,NA,NA,NA
+Pseudonaja,textilis,Chordata,Lepidosauria,Squamata,Elapidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1683.49,Slavenko et al. 2016 database,150,body length,Brose et al. dataset,NA
+Suta,flagellum,Chordata,Lepidosauria,Squamata,Elapidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,36.92,Slavenko et al. 2016 database,NA,NA,NA,Parasuta flagellum
+Eleutherodactylus,coqui,Chordata,Amphibia,Anura,Eleutherodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,5.2,body length,AmphiBIO,NA
+Eleutherodactylus,portoricensus,Chordata,Amphibia,Anura,Eleutherodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,4.2,body length,AmphiBIO,NA
+Antarctopsocus,jeanneli,Arthropoda,Insecta,Psocoptera,Elipsocidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Gopherus,agassizii,Chordata,Archelosauria,Testudines,Emydidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10955.81,Slavenko et al. 2016 database,NA,NA,NA,NA
+Coleonyx,brevis,Chordata,Lepidosauria,Squamata,Eublepharidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.44,Slavenko et al. 2016 database,NA,NA,NA,NA
+Coleonyx,variegatus,Chordata,Lepidosauria,Squamata,Eublepharidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,8.73,Slavenko et al. 2016 database,NA,NA,NA,NA
+Acanthomyops,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Aenictus,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Amblyopone,pallipes,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Anoplolepis,gracilipes,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Aphaenogaster,carolinensis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Aphaenogaster,fulva,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Aphaenogaster,lamellidens,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Aphaenogaster,rudis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Aphaenogaster,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Aphanenogaster,senilis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,americanus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,castaneus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,chromaiodes,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,cruentatus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,detritus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,foreli,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,herculeanus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,novaeboracensis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,pennsylvanicus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,sp.2,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,sp.3,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Camponotus,sylvaticus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Cardiocondyla,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Cataglyphis,bicolor,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Cataglyphis,bombycina,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Cataglyphis,cursor,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Cataulacus,horridus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Crematogaster,Physocremasp,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Crematogaster,inflata,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Crematogaster,lineolata,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Crematogaster,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Crematogaster,sp.2,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Dolichoderus,beccarii,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Dolichoderus,cuspidatus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Dorymyrmex,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Eciton,burchellii,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,aserva,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,neogagates,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,obscuripes,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,pallidefulva,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,pergandei,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,perpilosa,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,podzolica,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,polyctena,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,sanguinea,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Formica,subsericea,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+GM-10-261,,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Gnamptogenys,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Hypoponera,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Lasius,alienus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Lasius,fallax,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Lasius,nearcticus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Lasius,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Leptogenys,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Linepithema,humile,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Melophorus,bagoti,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Messor,arenarius,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Messor,bouvieri,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Messor,capitatus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Messor,denticornis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Monomorium,alamarum,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Monomorium,floricola,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Monomorium,minimum,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Monomorium,pharaonis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Monomorium,vatranum,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Monomorium,viator,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Myrmecina,americana,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Myrmecocystus,depilis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Myrmecocystus,mexican,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Myrmecocystus,mimicus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Myrmecocystus,romainei,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Myrmica,punctiventris,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Myrmicaria,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Ocymyrmex,barbiger,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Ocymyrmex,velox,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Odontoponera,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pachycondyla,chinensis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pachycondyla,faisonensis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pachycondyla,tridentata,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Paratrechina,yambaru,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pheidole,noda,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pheidole,pallldula,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pheidole,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pheidole,tenuinodis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pheidologeton,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Plagiolepis,pygmaea,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pogonomyrmex,barbatus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pogonomyrmex,californicus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pogonomyrmex,desertorum,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pogonomyrmex,rugosus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Polyrhachis,bihamata,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Polyrhachis,furcata,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Polyrhachis,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Ponera,pennsylvanica,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Prenolepis,imparis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pristomyrmex,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Proceratium,silaceum,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Proformica,ferreri,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Proformica,longiseta,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Protomognathus,americanus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Pyramica,rostrata,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Solenopsis,invicta,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Solenopsis,molesta,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Stenamma,impar,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tapinoma,sessile,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tapinoma,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Technomyrmex,brunneus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Technomyrmex,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Temnothorax,curvispinosus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Temnothorax,longispinosus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Temnothorax,pergandei,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Temnothorax,tuscaloosae,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tetramorium,Triglyphotrixsp,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tetramorium,bicarinatum,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tetramorium,caespitum,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tetramorium,nigerrimum,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tetramorium,rufescens,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tetramorium,semilaeve,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tetramorium,sericeiventre,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Tetramorium,sp.1,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Trachymyrmex,septentrionalis,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Trachymyrmex,smithi_neomexicanus,Arthropoda,Insecta,Hymenoptera,Formicidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.2,body length,mean from Brose et al.,NA
+Chondrodactylus,angulifer,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,26.73,Slavenko et al. 2016 database,NA,NA,NA,NA
+Chondrodactylus,bibronii,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,19.07,Slavenko et al. 2016 database,NA,NA,NA,NA
+Cyrtodactylus,philippinicus,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,17.83,Slavenko et al. 2016 database,NA,NA,NA,NA
+Gehyra,variegata,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.41,Slavenko et al. 2016 database,NA,NA,NA,NA
+Hemidactylus,frenatus,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6.31,Slavenko et al. 2016 database,NA,NA,NA,NA
+Hemidactylus,turcicus,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.87,Slavenko et al. 2016 database,NA,NA,NA,NA
+Heteronotia,binoei,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.66,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lepidodactylus,lugubris,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.97,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ptenopus,garrulus,Chordata,Lepidosauria,Squamata,Gekkonidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.23,Slavenko et al. 2016 database,NA,NA,NA,NA
+Glossina,pallidipes,Arthropoda,Insecta,Diptera,Glossinidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,,NA,NA,NA,NA
+Zelotes,serotinus,Arthropoda,Arachnida,Araneae,Gnaphosidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.00165,mean from Brose et al. dataset,NA,NA,NA,NA
+Epigomphus,quadracies,Arthropoda,Insecta,Odonata,Gomphidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Paractora,dreuxi,Arthropoda,Insecta,Diptera,Helcomyzidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Heloderma,suspectum,Chordata,Lepidosauria,Squamata,Helodermatidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,975.3,Slavenko et al. 2016 database,NA,NA,NA,NA
+Hodotermes,mossambicus,Arthropoda,Insecta,Isoptera,Hodotermitidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Cyclorana,alboguttatus,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.31,AmphiBIO,6.5,body length,AmphiBIO,Litoria alboguttata
+Cyclorana,brevipes,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.07,AmphiBIO,5,body length,Brose et al. dataset,Litoria brevipes
+Hyla,alpina,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.69,AmphiBIO,5,body length,AmphiBIO,Litoria ewingii alpina
+Hyla,aurea,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,50,AmphiBIO,9.39,body length,AmphiBIO,Litoria aurea
+Hyla,bicolor,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.8,AmphiBIO,3,body length,AmphiBIO,Litoria bicolor
+Hyla,caerulea,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,50,AmphiBIO,10,body length,AmphiBIO,Litoria caerulea
+Hyla,chloris,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,28.9,AmphiBIO,7,body length,AmphiBIO,Litoria chloris
+Hyla,citropa,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,8.62,AmphiBIO,6.5,body length,AmphiBIO,Litoria citropa
+Hyla,ewingi,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.69,AmphiBIO,5,body length,AmphiBIO,Litoria ewingii
+Hyla,freycineti,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.22,AmphiBIO,4.9,body length,AmphiBIO,Litoria freycineti
+Hyla,glauerti,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1,AmphiBIO,2.5,body length,AmphiBIO,Litoria fallax
+Hyla,gracilenta,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.7,AmphiBIO,4.5,body length,AmphiBIO,Litoria gracilenta (duplicate record)
+Hyla,labialis,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,6.1,body length,AmphiBIO,Dendropsophus labialis
+Hyla,lesueuri,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,24,AmphiBIO,7,body length,AmphiBIO,Litoria lesueurii
+Hyla,peroni,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.88,AmphiBIO,5.57,body length,AmphiBIO,Litoria peronii
+Hyla,phyllochroa,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.16,AmphiBIO,4,body length,AmphiBIO,Litoria phyllochroa
+Hyla,regilla,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.6,AmphiBIO,5,body length,AmphiBIO,Pseudacris regilla
+Hyla,rothi,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6.5,AmphiBIO,5.5,body length,AmphiBIO,Litoria rothii
+Hyla,rubella,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.08,AmphiBIO,3.5,body length,AmphiBIO,Litoria rubella
+Hyla,verreauxi,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.74,AmphiBIO,3,body length,AmphiBIO,Litoria verreauxi
+Hyla,walkeri,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,3.78,body length,AmphiBIO,NA
+Litoria,gracilenta,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.7,AmphiBIO,5,body length,Brose et al. dataset,NA
+Pachymedusa,dacnicolor,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.1,AmphiBIO,10.36,body length,AmphiBIO,Agalychnis dacnicolor
+Pseudacris,cadaverina,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,5.1,body length,AmphiBIO,NA
+Pseudacris,regilla,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.6,AmphiBIO,5,body length,AmphiBIO,NA
+Pseudacris,triseriata,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,3.9,body length,AmphiBIO,NA
+Pternohyla,fodiens,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,7,body length,AmphiBIO,Smilisca fodiens
+Smilisca,baudini,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,9,body length,AmphiBIO,NA
+Tlalocohyla,smithii,Chordata,Amphibia,Anura,Hylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,3.09,body length,AmphiBIO,NA
+Anolis,auratus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.9,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,barbouri,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.51,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,carolinensis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,8.75,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,cooki,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.14,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,cristatellus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.82,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,cupreus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.9,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,cybotes,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.01,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,distichus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.19,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,evermanni,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.82,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,frenatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,67.21,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,gundlachi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.1,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,humilis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.65,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,intermedius,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.33,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,krugi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.51,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,lemurinus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.19,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,limifrons,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.81,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,lionotus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.82,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,marcanoi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.74,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,oculatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,19.22,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,pentaprion,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.58,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,pulchellus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.86,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,roquet,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,13.09,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,sagrei,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,8.75,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,semilineatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.21,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,shrevei,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.54,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,stratulus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.76,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,tropidogaster,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.24,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Anolis,tropidolepis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.32,Slavenko et al. 2016 database,NA,NA,NA,Family is Dactyloidae in Slavenko
+Basiliscus,vittatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,393.67,Slavenko et al. 2016 database,NA,NA,NA,Family is Corytophanidae in Slavenko
+Cophosaurus,texanus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,29.09,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Crotaphytus,collaris,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,62.21,Slavenko et al. 2016 database,NA,NA,NA,Family is Crotaphytidae in Slavenko
+Dipsosaurus,dorsalis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,159.7,Slavenko et al. 2016 database,NA,NA,NA,NA
+Holbrookia,maculata,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14.61,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Liolaemus,abaucan,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,8.64,Slavenko et al. 2016 database,NA,NA,NA,Family is Liolaemidae in Slavenko
+Liolaemus,albiceps,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,27.09,Slavenko et al. 2016 database,NA,NA,NA,Family is Liolaemidae in Slavenko
+Liolaemus,bibronii,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,27.09,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,boulengeri,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,15.2,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,canqueli,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,32.81,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,capillitas,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,26.21,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,chacoensis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.15,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,cuyanus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,37.38,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,darwinii,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.4,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,dorbignyi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,34.88,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,elongatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,27.72,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,fitzingerii,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,44.08,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,irregularis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,23.67,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,kingii,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,32.81,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,koslowskyi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,17.75,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,kriegi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,50.58,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,laurenti,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.38,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,melanops,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,31.8,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,multicolor,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,19.12,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,multimaculatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.02,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,olongasta,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.49,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,petrophilus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,33.42,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,poecilochromus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14.08,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,pseudoanomalus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.94,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,quilmes,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,22.87,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,riojanus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.84,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,robertmertensi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.84,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,rothi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,37.29,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,salinicola,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14.6,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,scapularis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14.6,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,sp.1,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Liolaemus,telsen,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,13.46,Slavenko et al. 2016 database,NA,NA,NA,NA
+Liolaemus,xanthoviridis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,34.04,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phrynosoma,cornutum,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,63.68,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phrynosoma,coronatum,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,44.81,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phrynosoma,douglassii,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,57.34,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phrynosoma,platyrhinos,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,27.5,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phymaturus,antofagastensis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,40.84,Slavenko et al. 2016 database,NA,NA,NA,Family is Liolaemidae in Slavenko
+Phymaturus,dorsimaculatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,44.82,Slavenko et al. 2016 database,NA,NA,NA,Phymaturus vociferator
+Phymaturus,indistinctus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,40.36,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phymaturus,palluma,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,56.59,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phymaturus,patagonicus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,53.75,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phymaturus,somuncurensis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,40.36,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phymaturus,tenebrosus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,55.94,Slavenko et al. 2016 database,NA,NA,NA,NA
+Phymaturus,zapalensis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,48.99,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sauromalus,obesus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,512.6,Slavenko et al. 2016 database,NA,NA,NA,Sauromalus ater
+Sceloporus,graciosus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,23.09,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Sceloporus,grammicus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,17.95,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Sceloporus,magister,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,80.66,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Sceloporus,malachiticus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,30.05,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Sceloporus,merriami,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.37,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Sceloporus,occidentalis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,29.08,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Sceloporus,undulatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,24.51,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Sceloporus,variabilis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,15.67,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Sceloporus,woodi,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.96,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Uma,inornata,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,56.12,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Urosaurus,auriculatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14.09,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Urosaurus,clarionensis,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.96,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Urosaurus,ornatus,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.68,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Uta,stansburiana,Chordata,Lepidosauria,Squamata,Iguanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,15.67,Slavenko et al. 2016 database,NA,NA,NA,Family is Phrynosomatidae in Slavenko
+Cryptopygus,cisantarcticus,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Isotoma,klovstadi,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Acanthodactylus,erythrurus,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,13.66,Slavenko et al. 2016 database,NA,NA,NA,NA
+Eremias,argus,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.2,Slavenko et al. 2016 database,NA,NA,NA,NA
+Eremias,brenchleyi,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.65,Slavenko et al. 2016 database,NA,NA,NA,NA
+Eremias,multiocellata,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.98,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lacerta,agilis,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10,Brose et al. dataset,NA,NA,NA,NA
+Lacerta,monticola,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,13.95,Slavenko et al. 2016 database,NA,NA,NA,Iberolacerta monticola
+Lacerta,schreiberi,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,55.41,Slavenko et al. 2016 database,NA,NA,NA,NA
+Meroles,suborbitalis,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,8.32,Slavenko et al. 2016 database,NA,NA,NA,NA
+Pedioplanis,lineoocellata,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.01,Slavenko et al. 2016 database,NA,NA,NA,NA
+Podarcis,bocagei,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.98,Slavenko et al. 2016 database,NA,NA,NA,NA
+Podarcis,hispanica,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,9.4,Slavenko et al. 2016 database,NA,NA,NA,Podarcis hispanicus
+Podarcis,lilfordi,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.27,Slavenko et al. 2016 database,NA,NA,NA,NA
+Podarcis,muralis,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.98,Slavenko et al. 2016 database,NA,NA,NA,NA
+Podarcis,tiliguerta,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,15.15,Slavenko et al. 2016 database,NA,NA,NA,NA
+Psammodromus,algirus,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,18.45,Slavenko et al. 2016 database,NA,NA,NA,NA
+Psammodromus,hispanicus,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.13,Slavenko et al. 2016 database,NA,NA,NA,NA
+Takydromus,formosanus,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6.12,Slavenko et al. 2016 database,NA,NA,NA,NA
+Takydromus,hsuehshanensis,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,8.67,Slavenko et al. 2016 database,NA,NA,NA,NA
+Takydromus,septentrionalis,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.83,Slavenko et al. 2016 database,NA,NA,NA,NA
+Takydromus,sexlineatus,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.98,Slavenko et al. 2016 database,NA,NA,NA,NA
+Takydromus,stejnegeri,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.58,Slavenko et al. 2016 database,NA,NA,NA,NA
+Zootoca,vivipara,Chordata,Lepidosauria,Squamata,Lacertidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.57,Slavenko et al. 2016 database,NA,NA,NA,NA
+Leptodactylus,melanotus,Chordata,Amphibia,Anura,Leptodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,5.8,body length,AmphiBIO,NA
+Erthemis,simplicicollis,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Erythemis,credula,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Erythemis,plebeja,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Libellula,sp.1,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Miathyria,marcella,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Micrathyria,aequalis,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Micrathyria,eximia,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Micrathyria,ocellata,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Pachydiplax,longipennis,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Tauriphila,argo,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Tramea,carolina,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Tramea,cophysa,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Tramea,walkeri,Arthropoda,Insecta,Odonata,Libellulidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0793,mean from Brose et al. dataset,NA,NA,NA,NA
+Oedothorax,apicatus,Arthropoda,Arachnida,Araneae,Linyphiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.000179,mean from Brose et al. dataset,NA,NA,NA,NA
+Prinerigone,vagans,Arthropoda,Arachnida,Araneae,Linyphiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.000179,mean from Brose et al. dataset,NA,NA,NA,NA
+Stemonyphantes,lineatus,Arthropoda,Arachnida,Araneae,Linyphiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.000179,mean from Brose et al. dataset,NA,NA,NA,NA
+Agroeca,proxima,Arthropoda,Arachnida,Araneae,Liocranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0000455,mean from Brose et al. dataset,NA,NA,NA,NA
+Scotina,gracilipes,Arthropoda,Arachnida,Araneae,Liocranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0000455,mean from Brose et al. dataset,NA,NA,NA,NA
+Lycosa,sp.1,Arthropoda,Arachnida,Araneae,Lycosidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.00233,mean from Brose et al. dataset,NA,NA,NA,NA
+Pardosa,nigriceps,Arthropoda,Arachnida,Araneae,Lycosidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.00233,mean from Brose et al. dataset,NA,NA,NA,NA
+Macromia,taeniolata,Arthropoda,Insecta,Odonata,Macromiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Cophixalis,ornatus,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,2.5,body length,AmphiBIO,Cophixalus ornatus
+Cophixalus,aenigma,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,2.26,body length,AmphiBIO,NA
+Cophixalus,bombiens,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.5,body length,AmphiBIO,NA
+Cophixalus,exiguus,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.83,body length,AmphiBIO,NA
+Cophixalus,hosmeri,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.5,body length,AmphiBIO,NA
+Cophixalus,infacetus,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,1.8,body length,AmphiBIO,NA
+Cophixalus,mcdonaldi,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,2.5,body length,AmphiBIO,NA
+Cophixalus,neglectus,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,2.9,body length,AmphiBIO,NA
+Kaloula,kalingensis,Chordata,Amphibia,Anura,Microhylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,3.93,body length,AmphiBIO,NA
+Adelotus,brevis,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.42,AmphiBIO,4.5,body length,AmphiBIO,Family is Limnodynastidae in AmphiBIO
+Crinia,darlingtoni,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.39,AmphiBIO,3,body length,AmphiBIO,Assa darlingtoni
+Crinia,laevis,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.92,AmphiBIO,3.5,body length,AmphiBIO,Geocrinia laevis
+Crinia,parainsignifera,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.66,AmphiBIO,2,body length,AmphiBIO,NA
+Crinia,signifera,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.9,AmphiBIO,3.2,body length,AmphiBIO,NA
+Crinia,victoriana,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.57,AmphiBIO,3.5,body length,AmphiBIO,Geocrinia victoriana
+Limnodynastes,Salmini,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,20.84,AmphiBIO,7.5,body length,AmphiBIO,Limnodynastes salmini; Family is Limnodynastidae in AmphiBIO
+Limnodynastes,dorsalis,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,18.97,AmphiBIO,7.3,body length,AmphiBIO,Family is Limnodynastidae in AmphiBIO
+Limnodynastes,fletcheri,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.34,AmphiBIO,5,body length,AmphiBIO,Family is Limnodynastidae in AmphiBIO
+Limnodynastes,peroni,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.17,AmphiBIO,7.28,body length,AmphiBIO,Limnodynastes peronii; Family is Limnodynastidae in AmphiBIO
+Limnodynastes,tasmaniensis,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.37,AmphiBIO,5.05,body length,AmphiBIO; Brose et al. dataset,NA
+Myxophyes,fasciolatus,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,46.5,AmphiBIO,9.7,body length,AmphiBIO,NA
+Neobatrachus,pictus,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.34,AmphiBIO,5,body length,AmphiBIO,Family is Limnodynastidae in AmphiBIO
+Philoria,frosti,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14.5,AmphiBIO,5.24,body length,AmphiBIO,Family is Limnodynastidae in AmphiBIO
+Philoria,loveridgei,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.45,AmphiBIO,3,body length,AmphiBIO,Family is Limnodynastidae in AmphiBIO
+Philoria,sphagnicola,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.12,AmphiBIO,3.7,body length,AmphiBIO,Family is Limnodynastidae in AmphiBIO
+Pseudophryne,bibroni,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.19,AmphiBIO,3.6,body length,AmphiBIO,NA
+Pseudophryne,corroboree,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.94,AmphiBIO,3,body length,AmphiBIO,NA
+Pseudophryne,dendyi,Chordata,Amphibia,Anura,Myobatrachidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.1,AmphiBIO,3.5,body length,AmphiBIO,NA
+Friesea,grisea,Arthropoda,Collembola,Poduromorpha,Neanuridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Spea,hammondii,Chordata,Amphibia,Anura,Pelobatidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,6.1,body length,AmphiBIO,Family is Scaphiopodidae in AmphiBIO
+Spea,holbrooki,Chordata,Amphibia,Anura,Pelobatidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,7.1,body length,AmphiBIO,Scaphiopus holbrookii; Family is Scaphiopodidae in AmphiBIO
+Philodromus,aureolus,Arthropoda,Arachnida,Araneae,Philodromidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.000122,mean from Brose et al. dataset,NA,NA,NA,NA
+Petrosaurus,mearnsi,Chordata,Lepidosauria,Squamata,Phrynosomatidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,141.13,Slavenko et al. 2016 database,NA,NA,NA,NA
+Tarentola,boettgeri,Chordata,Lepidosauria,Squamata,Phyllodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.75,Slavenko et al. 2016 database,NA,NA,NA,NA
+Desmognathus,fuscus,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,10.5,body length,AmphiBIO,NA
+Desmognathus,ochrophaeus,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.6,AmphiBIO,9.05,body length,AmphiBIO,NA
+Desmognathus,quadramaculatus,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,28.7,AmphiBIO,21,body length,AmphiBIO,NA
+Eurycea,bislineata,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,12.3,body length,AmphiBIO,NA
+Eurycea,longicauda,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,20,body length,AmphiBIO,NA
+Eurycea,lucifuga,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,18.1,body length,AmphiBIO,NA
+Eurycea,multiplicata,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,16,body length,AmphiBIO,NA
+Eurycea,nana,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,5.1,body length,AmphiBIO,NA
+Plethodon,glutinosus,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,65,AmphiBIO,20.6,body length,AmphiBIO,NA
+Pseudotriton,ruber,Chordata,Amphibia,Caudata,Plethodontidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,18.1,body length,AmphiBIO,NA
+Hylarana,erythraea,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,7.5,body length,AmphiBIO,NA
+Hylarana,luzonensis,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Lithobates,sylvatica,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,17.6,AmphiBIO,8.3,body length,AmphiBIO,Lithobates sylvaticus
+Rana,boyleri,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,22,AmphiBIO,7.3,body length,AmphiBIO,Rana boylii
+Rana,cascadae,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.1,AmphiBIO,7.5,body length,AmphiBIO,NA
+Rana,catesbeiana,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,467.8,AmphiBIO,20.3,body length,AmphiBIO,Lithobates catesbeiana
+Rana,clamitans,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,47.9,AmphiBIO,8.7,body length,AmphiBIO,Lithobates clamitans
+Rana,palmipes,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,101,AmphiBIO,12.6,body length,AmphiBIO,Lithobates palmipes
+Rana,palustris,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,8.7,body length,AmphiBIO,Lithobates palustris
+Rana,pipiens,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,39.2,AmphiBIO,16.5,body length,AmphiBIO,Lithobates pipiens
+Rana,pretiosa,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,10,body length,AmphiBIO,NA
+Rana,virgatipes,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,6.7,body length,AmphiBIO,Lithobates virgatipes
+Rana,warszewitschii,Chordata,Amphibia,Anura,Ranidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,8,body length,AmphiBIO,Lithobates warszewitschii
+Philautus,surdus,Chordata,Amphibia,Anura,Rhacophoridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,3.84,body length,AmphiBIO,NA
+Coptotermes,formosanus,Arthropoda,Insecta,Isoptera,Rhinotermitidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Reticulitermes,flavipes,Arthropoda,Insecta,Isoptera,Rhinotermitidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Taeniopoda,eques,Arthropoda,Insecta,Orthoptera,Romaleidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Notophthalmus,viridescens,Chordata,Amphibia,Caudata,Salamandridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.9,AmphiBIO,14,body length,AmphiBIO,NA
+Taricha,torosa,Chordata,Amphibia,Caudata,Salamandridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,19.7,body length,AmphiBIO,NA
+Euophrys,frontalis,Arthropoda,Arachnida,Araneae,Salticidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0000511,mean from Brose et al. dataset,NA,NA,NA,NA
+Sarcophaga,sp.1,Arthropoda,Insecta,Diptera,Sarcophagidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.009,mean from Brose et al. dataset,NA,NA,NA,NA
+Acontias,meleagris,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,29.76,Slavenko et al. 2016 database,NA,NA,NA,NA
+Anomalopus,brevicollis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.61,Slavenko et al. 2016 database,NA,NA,NA,NA
+Anomalopus,leuckartii,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.88,Slavenko et al. 2016 database,NA,NA,NA,NA
+Bassiana,duperreyi,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.47,Slavenko et al. 2016 database,NA,NA,NA,NA
+Bassiana,platynota,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10.47,Slavenko et al. 2016 database,NA,NA,NA,NA
+Calyptotis,temporalis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.52,Slavenko et al. 2016 database,NA,NA,NA,NA
+Carlia,foliorum,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.41,Slavenko et al. 2016 database,NA,NA,NA,Lygisaurus foliorum
+Carlia,longipes,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.79,Slavenko et al. 2016 database,NA,NA,NA,NA
+Carlia,munda,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.52,Slavenko et al. 2016 database,5,body length,Brose et al. dataset,NA
+Carlia,pectoralis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.1,Slavenko et al. 2016 database,8,body length,Brose et al. dataset,NA
+Carlia,rhomboidalis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.36,Slavenko et al. 2016 database,NA,NA,NA,NA
+Carlia,schmeltzi,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6.5,Slavenko et al. 2016 database,NA,NA,NA,NA
+Carlia,vivax,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.3,Slavenko et al. 2016 database,NA,NA,NA,NA
+Cryptoblepharus,litoralis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.12,Slavenko et al. 2016 database,NA,NA,NA,NA
+Cryptoblepharus,plagiocephalus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.88,Slavenko et al. 2016 database,6,body length,Brose et al. dataset,NA
+Cryptoblepharus,virgatus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.21,Slavenko et al. 2016 database,5,body length,Brose et al. dataset,NA
+Ctenotus,essingtoni,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.79,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenotus,pantherinus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,45.4,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenotus,regius,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.8,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenotus,spaldingi,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,25.2,Slavenko et al. 2016 database,NA,NA,NA,NA
+Ctenotus,taeniolatus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,14.78,Slavenko et al. 2016 database,10,body length,Brose et al. dataset,NA
+Ctenotus,uber,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,11.34,Slavenko et al. 2016 database,NA,NA,NA,NA
+Cyclodomorphus,branchialis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,38.77,Slavenko et al. 2016 database,NA,NA,NA,NA
+Cyclodomorphus,melanops,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,52.76,Slavenko et al. 2016 database,NA,NA,NA,NA
+Egernia,cunninghami,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,414.9,Slavenko et al. 2016 database,NA,NA,NA,NA
+Egernia,inornata,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.74,Slavenko et al. 2016 database,NA,NA,NA,Liopholis inornata
+Egernia,saxatilis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,56.73,Slavenko et al. 2016 database,NA,NA,NA,NA
+Egernia,striolata,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,37.75,Slavenko et al. 2016 database,NA,NA,NA,NA
+Egernia,whitii,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,31.94,Slavenko et al. 2016 database,NA,NA,NA,Liopholis whitii
+Eremiascincus,fasciolatus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,42.45,Slavenko et al. 2016 database,NA,NA,NA,NA
+Eremiascincus,richardsoni,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,46.58,Slavenko et al. 2016 database,NA,NA,NA,NA
+Eulamprus,heatwolei,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,21.53,Slavenko et al. 2016 database,NA,NA,NA,NA
+Eulamprus,kosciuskoi,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.74,Slavenko et al. 2016 database,NA,NA,NA,NA
+Eulamprus,murrayi,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,27.6,Slavenko et al. 2016 database,NA,NA,NA,Silvascinus murrayi
+Eulamprus,quoyii,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,46.58,Slavenko et al. 2016 database,NA,NA,NA,NA
+Eulamprus,tenuis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.74,Slavenko et al. 2016 database,NA,NA,NA,Concinnia tenuis
+Eulamprus,tympanum,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,21.6,Slavenko et al. 2016 database,NA,NA,NA,NA
+Glaphyromorphus,punctulatus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6.8,Slavenko et al. 2016 database,NA,NA,NA,NA
+Hemiergis,decresiensis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.05,Slavenko et al. 2016 database,NA,NA,NA,NA
+Hemiergis,peroni,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.05,Slavenko et al. 2016 database,NA,NA,NA,Hemiergis peronii
+Hemiergis,quadrilineatum,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.68,Slavenko et al. 2016 database,NA,NA,NA,Hemiergis quadrilineata
+Lampropholis,delicata,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.12,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lampropholis,guichenoti,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.61,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lerista,bougainvilli,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,8.14,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lerista,frosti,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.1,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lerista,neander,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.98,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lerista,orientalis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.94,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lerista,terdigitata,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.26,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lipinia,pulchella,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.3,Slavenko et al. 2016 database,NA,NA,NA,NA
+Morethia,butleri,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.51,Slavenko et al. 2016 database,NA,NA,NA,NA
+Morethia,lineoocellata,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.51,Slavenko et al. 2016 database,NA,NA,NA,NA
+Morethia,obscura,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.31,Slavenko et al. 2016 database,NA,NA,NA,NA
+Morethia,taeniopleura,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.52,Slavenko et al. 2016 database,5,body length,Brose et al. dataset,NA
+Nannoscincus,maccoyi,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,3.92,Slavenko et al. 2016 database,NA,NA,NA,Anepischetosia maccoyi
+Niveoscincus,coventryi,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.94,Slavenko et al. 2016 database,NA,NA,NA,NA
+Niveoscincus,metallicus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.12,Slavenko et al. 2016 database,NA,NA,NA,NA
+Niveoscincus,ocellatus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.74,Slavenko et al. 2016 database,NA,NA,NA,NA
+Parvoscincus,decipiens,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.63,Slavenko et al. 2016 database,NA,NA,NA,NA
+Pinoyscincus,abdictus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,20.17,Slavenko et al. 2016 database,NA,NA,NA,NA
+Pinoyscincus,jagori,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,29.54,Slavenko et al. 2016 database,NA,NA,NA,NA
+Plestiodon,chinensis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,55.39,Slavenko et al. 2016 database,NA,NA,NA,NA
+Plestiodon,elegans,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,25.2,Slavenko et al. 2016 database,NA,NA,NA,NA
+Plestiodon,gilberti,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,35.74,Slavenko et al. 2016 database,NA,NA,NA,NA
+Plestiodon,obsoletus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,68.33,Slavenko et al. 2016 database,NA,NA,NA,NA
+Plestiodon,skiltonianus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,13.23,Slavenko et al. 2016 database,NA,NA,NA,NA
+Pseudemoia,entrecasteauxii,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.36,Slavenko et al. 2016 database,NA,NA,NA,NA
+Pseudemoia,spenceri,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.36,Slavenko et al. 2016 database,NA,NA,NA,NA
+Saiphos,equalis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.44,Slavenko et al. 2016 database,NA,NA,NA,NA
+Saproscincus,basiliscus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.27,Slavenko et al. 2016 database,NA,NA,NA,NA
+Saproscincus,mustelina,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,5.1,Slavenko et al. 2016 database,NA,NA,NA,NA
+Saproscincus,tetradactyla,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.35,Slavenko et al. 2016 database,NA,NA,NA,NA
+Scelotes,gronovii,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2.26,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphenomorphus,incognitus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,29.03,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphenomorphus,indicus,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,24.97,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphenomorphus,taiwanensis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6.41,Slavenko et al. 2016 database,NA,NA,NA,NA
+Tiliqua,nigrolutea,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1445.85,Slavenko et al. 2016 database,NA,NA,NA,NA
+Tiliqua,rugosa,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1229.69,Slavenko et al. 2016 database,NA,NA,NA,NA
+Tiliqua,scincoides,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1603.69,Slavenko et al. 2016 database,5,body length,Brose et al. dataset,NA
+Trachylepis,capensis,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,56.73,Slavenko et al. 2016 database,NA,NA,NA,NA
+Trachylepis,striata,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,31.94,Slavenko et al. 2016 database,NA,NA,NA,NA
+Tropidophorus,queenslandiae,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,12.74,Slavenko et al. 2016 database,NA,NA,NA,NA
+Typhlacontias,brevipes,Chordata,Lepidosauria,Squamata,Scincidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,4.76,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphaerodactylus,gaigeae,Chordata,Lepidosauria,Squamata,Sphaerodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.39,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphaerodactylus,klauberi,Chordata,Lepidosauria,Squamata,Sphaerodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.25,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphaerodactylus,macrolepis,Chordata,Lepidosauria,Squamata,Sphaerodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.06,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphaerodactylus,nicholsi,Chordata,Lepidosauria,Squamata,Sphaerodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.39,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphaerodactylus,roosevelti,Chordata,Lepidosauria,Squamata,Sphaerodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1.47,Slavenko et al. 2016 database,NA,NA,NA,NA
+Sphaerodactylus,townsendi,Chordata,Lepidosauria,Squamata,Sphaerodactylidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.67,Slavenko et al. 2016 database,NA,NA,NA,NA
+Halmaeusa,atriceps,Arthropoda,Insecta,Coleoptera,Staphylinidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.00124,mean as larvae from Brose et al. dataset,NA,NA,NA,NA
+Succinea,strigata,Mollusca,Gastropoda,Stylommatophora,Succineidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Ameiva,festiva,Chordata,Lepidosauria,Squamata,Teiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,92.36,Slavenko et al. 2016 database,NA,NA,NA,Holcosus festivus
+Ameiva,quadrilineata,Chordata,Lepidosauria,Squamata,Teiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,19.97,Slavenko et al. 2016 database,NA,NA,NA,Holcosus quadrilineatus
+Cnemidophorus,sexlineatus,Chordata,Lepidosauria,Squamata,Teiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,22.16,Slavenko et al. 2016 database,NA,NA,NA,Apsidoscelis sexlineata
+Cnemidophorus,tigris,Chordata,Lepidosauria,Squamata,Teiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,79.1,Slavenko et al. 2016 database,NA,NA,NA,Apsidoscelis tigris
+Gonocephalum,simplex,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Onymacris,bicolor,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Onymacris,marginipennis,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Onymacris,plana,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Onymacris,rugatipennis,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Onymacris,unguicularis,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Physadesmia,globosa,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Testudo,hermanni,Chordata,Archelosauria,Testudines,Testudinidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7363.23,Slavenko et al. 2016 database,NA,NA,NA,NA
+Conocephalus,saltator,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0095,mean from Brose et al. dataset,NA,NA,NA,NA
+Crustulina,guttata,Arthropoda,Arachnida,Araneae,Theridiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Dipoena,inornata,Arthropoda,Arachnida,Araneae,Theridiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0002,mean from Brose et al. dataset,NA,NA,NA,NA
+Misumenoides,formosipes,Arthropoda,Arachnida,Araneae,Thomisidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0000843,mean from Brose et al. dataset,NA,NA,NA,NA
+Misumenops,asperatus,Arthropoda,Arachnida,Araneae,Thomisidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0000843,mean from Brose et al. dataset,NA,NA,NA,NA
+Tibellus,oblongus,Arthropoda,Arachnida,Araneae,Thomisidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,0.0000843,mean from Brose et al. dataset,NA,NA,NA,NA
+Varanus,gouldii,Chordata,Lepidosauria,Squamata,Varanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6939.88,Slavenko et al. 2016 database,160,body length,Brose et al. dataset,NA
+Varanus,varius,Chordata,Lepidosauria,Squamata,Varanidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,10657.24,Slavenko et al. 2016 database,NA,NA,NA,NA
+Agkistrodon,contortrix,Chordata,Lepidosauria,Squamata,Viperidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1248.16,Slavenko et al. 2016 database,NA,NA,NA,NA
+Crotalus,atrox,Chordata,Lepidosauria,Squamata,Viperidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6163.07,Slavenko et al. 2016 database,NA,NA,NA,NA
+Crotalus,cerastes,Chordata,Lepidosauria,Squamata,Viperidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,313.8,Slavenko et al. 2016 database,NA,NA,NA,NA
+Crotalus,scutulatus,Chordata,Lepidosauria,Squamata,Viperidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1387.5,Slavenko et al. 2016 database,NA,NA,NA,NA
+Crotalus,viridis,Chordata,Lepidosauria,Squamata,Viperidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,2238.09,Slavenko et al. 2016 database,NA,NA,NA,NA
+Protobothrops,mucrosquamatus,Chordata,Lepidosauria,Squamata,Viperidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,1069.01,Slavenko et al. 2016 database,NA,NA,NA,NA
+Trimeresurus,gracilis,Chordata,Lepidosauria,Squamata,Viperidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,61.2,Slavenko et al. 2016 database,NA,NA,NA,NA
+Trimeresurus,stejnegeri,Chordata,Lepidosauria,Squamata,Viperidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,592.42,Slavenko et al. 2016 database,NA,NA,NA,NA
+Lepidophyma,flavimaculatum,Chordata,Lepidosauria,Squamata,Xantusiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,72.94,Slavenko et al. 2016 database,NA,NA,NA,NA
+Xantusia,henshawi,Chordata,Lepidosauria,Squamata,Xantusiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,7.02,Slavenko et al. 2016 database,NA,NA,NA,NA
+Xantusia,riversiana,Chordata,Lepidosauria,Squamata,Xantusiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,32.2,Slavenko et al. 2016 database,NA,NA,NA,NA
+Xantusia,vigilis,Chordata,Lepidosauria,Squamata,Xantusiidae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,6.73,Slavenko et al. 2016 database,NA,NA,NA,NA
+Zora,spinimana,Arthropoda,Arachnida,Araneae,Zoridae,Terrestrial,,,ectotherm,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA
+Phronima,sedentaria,Arthropoda,Malacostraca,Amphipoda,Phronimidae ,Marine,marine,sealifebase,ectotherm,pelagic,pelagic-oceanic,sealifebase,swim,Elder_and_Siebel_2015,NA,NA,2.5,NA,Pollock 1998 A Practical Guide to the Marine Animals of Northeastern North America. Rutgers University Press,Phronima sedentaria

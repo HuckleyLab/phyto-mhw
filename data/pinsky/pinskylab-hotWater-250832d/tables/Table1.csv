@@ -1,0 +1,6 @@
+,Estimate,Standard error,z,p-value,RVI
+Intercept,0.031,0.33,0.092,0.93,
+Habitat (Terrestrial),-1.3,0.56,-2.4,0.015,0.76
+abs(Latitude),0.076,0.038,2,0.044,0.68
+Method (Two surveys),0.45,0.49,0.93,0.35,0.45
+Duration,0.029,0.016,1.8,0.07,0.34

@@ -1,0 +1,7 @@
+"Variable","Peak1","Peak2","Peak3"
+"T_b terrestrial","-18 [-25,-10]","25 [21,28]",""
+"T_b marine","3 [-8,14]","",""
+"T_max terrestrial","-11 [-14,-8]","27 [23,29]",""
+"T_max marine","-36 [-40,-32]","-6 [-17,-1]","21 [17,24]"
+"TSM_favorable terrestrial","-30 [-38,-16]","22 [13,27]",""
+"TSM_favorable marine","0 [-19,18]","",""

@@ -1,0 +1,470 @@
+Genus,Species,tmax_metric,tmax_acc,tmax_acc_days,tmax_acc_type,tmax_col_time_if_field_fresh,tmax,lat,lon,no_NicheMapR_data,altitude,Phylum,Class,Order,Family,habitat,citation,citation_details_or_paper_in_which_data_were_compiled,notes.2017
+Kuhlia,sandvicensis,crit,30,12,lab,,40.3,21.3,-158,,0,Chordata,Actinopterygii,Perciformes,Kuhliidae,marine,Sylvester et al 1975,J. Fish Biol. (1975) 7 257-262,Could not find previous record with LTs (Tester and Takata) but I found this paper with the same species; and2 other
+Mugil,cephalus,crit,30,12,lab,,41.8,21.3,-158,,0,Chordata,Actinopterygii,Mugiliformes _‹_ Mugilidae _‹_ Moolgarda,Mugilidae,marine,Sylvester et al 1975,J. Fish Biol. (1975) 7 257-262,new
+Boreogadus,saida,leth,1.75,90,field_fresh,summer and autumn,15,71,-156.47,,0,Chordata,Actinopterygii,Gadiformes,Gadidae,marine,Scholander_et_al_1953,Sunday_et_al_PRSB_2011,removed tmin - artificial as far as I can tell
+Gammarus,locusta,leth,1.75,90,field_fresh,,25.02,71,-156.47,,0,Arthropoda,Malacostraca,Amphipoda,Gammaridae,marine,Scholander_et_al_1953,Sunday_et_al_PRSB_2011,removed tmin - artificial as far as I can tell
+Myoxocephalus,quadricornis_hexacornis,leth,12,90,field_fresh,summer and autumn,25,71,-156.47,,0,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,marine,Scholander_et_al_1953,Sunday_et_al_PRSB_2011,removed tmin - artificial as far as I can tell
+Pseudalibrotus,litoralis,leth,1.75,90,field_fresh,,25,71,-156.47,,0,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,marine,Scholander_et_al_1953,Sunday_et_al_PRSB_2011,removed tmin - artificial as far as I can tell
+Charina,bottae,crit,14,NA,,,38,44.58,-123.26,,70,Chordata,Reptilia,Squamata,Boidae,terrestrial,Brattstrom_1965,Sunday_et_al_PNAS_2014,
+Ascidia,ceratodes,leth,13,90,field_fresh,,24.3,38.33,-123.06,,0,Chordata,Ascidiacea,Enterogona,Ascidiidae,marine,Zerebecki_and_Sorte_2011,10.1371/journal.pone.0014806,added acclimation based on the range of daily temps reported for Bodega Bay
+Bugula,californica,leth,13,90,field_fresh,,24.5,38.33,-123.06,,0,Bryozoa,Gymnolaemata,Cheilostomatida,Bugulidae,marine,Zerebecki_and_Sorte_2011,10.1371/journal.pone.0014806,added acclimation based on the range of daily temps reported for Bodega Bay
+Distaplia,occidentalis,leth,13,90,field_fresh,,21.9,38.33,-123.06,,0,Chordata,Ascidiacea,Enterogona,Clavelinidae,marine,Zerebecki_and_Sorte_2011,10.1371/journal.pone.0014806,added acclimation based on the range of daily temps reported for Bodega Bay
+Rana,boyleri,crit,30,NA,,,34,39.72,-122.81,,914.4,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Metacarcinus,magister,leth,17.5,15,lab,,33.5,48.68,-122.5,,0,Arthropoda,Malacostraca,Decapoda,Cancridae,marine,Prentice_and_Schneider_1979,Comparative_Biochemical_Physiology_63A_591-597,added acclimation
+Thamnophis,ordinoides,crit,32,NA,,,38.3,45.5,-122.5,,200,Chordata,Reptilia,Squamata,Colubridae,terrestrial,Stewart_1965,Sunday_et_al_PNAS_2014,
+Thamnophis,sirtalis_concinnus,crit,32,NA,,,39.2,45.5,-122.5,,200,Chordata,Reptilia,Squamata,Colubridae,terrestrial,Stewart_1965,Sunday_et_al_PNAS_2014,
+Rana,pretiosa,crit,30,NA,,,34.8,51,-121.5,,609.6,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Sceloporus,occidentalis,crit,NA,NA,,,44.1,45.75,-121.2,,300,Chordata,Reptilia,Squamata,Phrynosomatidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation conditions in Van Berkum's thesis
+Girella,nigricans,leth,28,NA,,,31.4,34,-120.8,,0,Chordata,Actinopterygii,Perciformes,Kyphosidae,marine,Doudoroff_1942_in_Brett_1970,Sunday_et_al_PRSB_2011,acclimation not given
+Rana,cascadae,crit,30,NA,,,33.6,40,-120.8,,2133.6,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Takydromus,septentrionalis,crit,35,NA,,,44.5,28.47,119.92,,0,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Yang_et_al_2009,Sunday_et_al_PRSB_2011,
+Plestiodon,gilberti,crit,20,NA,,,42.3,37,-119.7,,600,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Youssef_et_al_2008,Sunday_et_al_PRSB_2011,
+Bufo,canorus,crit,30,NA,,,38,38,-119.3,,2743.2,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Elgaria,multicarinatus_webbi,crit,21.4,NA,,,41.4,34.3,-119.23,,NA,Chordata,Reptilia,Squamata,Anguidae,terrestrial,Cunningham_1966,Sunday_et_al_PRSB_2011,
+Chrysomela,aeneicollis,crit,25,NA,,,39,37.18,-118.28,,3200,Arthropoda,Insecta,Coleoptera,Chrysomelidae,terrestrial,Neargarder_2003,Sunday_et_al_PNAS_2014,
+Bufo,exsul,crit,30,NA,,,37.1,38,-118,,1524,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Xantusia,riversiana,crit,28,NA,,,39,32.90778,-118.497394,,250,Chordata,Reptilia,Squamata,Xantusiidae,terrestrial,Mautz_et_al._1992,Sunday_et_al_PRSB_2011,
+Pseudacris,regilla,crit,30,NA,,,36.6,34,-117.7,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Atherinops,affinis,leth,20,28,,,31.7,33,-117.5,,0,Chordata,Actinopterygii,Atheriniformes,Atherinidae,marine,Doudoroff_1945_in_Brett_1970,Sunday_et_al_PRSB_2011,added acclimation
+Fundulus,parvipinnis,leth,28,60,,,36.5,33,-117.5,,0,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,marine,Doudoroff_1945_in_Brett_1970,Sunday_et_al_PRSB_2011,added acclimation
+Sceloporus,graciosus,crit,NA,NA,,,44.7,33.91666667,-117.4,,230,Chordata,Reptilia,Squamata,Phrynosomatidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation conditions in Van Berkum's thesis
+Xantusia,vigilis,crit,NA,NA,,,41.6,33.91666667,-117.4,,50,Chordata,Reptilia,Squamata,Xantusiidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation conditions in Van Berkum's thesis
+Ambystoma,macrodactylum,crit,20,NA,,,34.4,45.5,-117.22,,2470,Chordata,Amphibia,Caudata,Ambystomatidae,terrestrial,Howard_1983,Sunday_et_al_PNAS_2014,
+Bufo,boreas,crit,30,NA,,,36.5,34.12,-116.82,,2743.2,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Hyla,regilla,crit,30,NA,,,37.7,34.12,-116.82,,2743.2,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Bufo,nelsoni,crit,30,NA,,,36.2,36.91,-116.76,,1524,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Taricha,torosa,leth,30,NA,,,38,32.97,-116.74,,146,Chordata,Amphibia,Caudata,Salamandridae,terrestrial,McFarland_1955,Sunday_et_al_PNAS_2014,
+Pseudacris,cadaverina,crit,30,NA,,,36.8,34,-116.7,,609.6,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Cnemidophorus,tigris,crit,NA,NA,,,45.1,43,-116.2,,300,Chordata,Reptilia,Squamata,Teiidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation conditions in Van Berkum's thesis
+Dipsosaurus,dorsalis,crit,38,NA,,,47.5,33.8,-115.5,,NA,Chordata,Reptilia,Squamata,Iguania,terrestrial,Bennett_1980,Sunday_et_al_PRSB_2011,
+Pogonomyrmex,californicus,crit,40,NA,,,51.78,36.17,-115.14,,620,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Lighton_Turner_2004,Sunday_et_al_PNAS_2014,
+Pogonomyrmex,rugosus,crit,40,NA,,,51.59,36.17,-115.14,,620,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Lighton_Turner_2004,Sunday_et_al_PNAS_2014,
+Bufo,alvarius,crit,30,NA,,,39.9,31,-112,,304.8,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Bufo,cognatus,crit,30,NA,,,41.3,31,-112,,304.8,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Leptodactylus,melanotus,crit,30,NA,,,39.8,30,-110.7,,304.8,Chordata,Amphibia,Anura,Leptodactylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Spea,hammondi,crit,30,NA,,,40.3,30,-110.3,,304.8,Chordata,Amphibia,Anura,Scaphiopodidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Bufo,debilis,crit,30,NA,,,40.1,27,-109.7,,304.8,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Bufo,mazatlanensis,crit,30,NA,,,39.9,27,-109.7,,304.8,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Pternohyla,fodiens,crit,30,NA,,,39.5,28,-109.7,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Urosaurus,ornatus,crit,30,NA,,,43.3,31.86,-109.15,,1690,Chordata,Reptilia,Squamata,Phrynosomatidae,terrestrial,Smith_1994,Sunday_et_al_PNAS_2014,
+Taeniopoda,eques,crit,30,NA,,,45.2,31.91,-109.14,,1450,Arthropoda,Insecta,Orthoptera,Romaleidae,terrestrial,Whitman_1987,Sunday_et_al_PNAS_2014,
+Myrmecocystus,depilis,crit,24,NA,,,47.4,36.68,-108.31,,1191,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Kay_1978,Sunday_et_al_PNAS_2014,
+Myrmecocystus,mexican,crit,24,NA,,,44.2,36.68,-108.31,,1191,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Kay_1978,Sunday_et_al_PNAS_2014,
+Myrmecocystus,mimicu,crit,24,NA,,,47.7,36.68,-108.31,,1191,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Kay_1978,Sunday_et_al_PNAS_2014,
+Myrmecocystus,romainei,crit,24,NA,,,46.1,36.68,-108.31,,1191,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Kay_1978,Sunday_et_al_PNAS_2014,
+Pachymedusa,dacnicolor,crit,8,NA,,,28.8,24,-106.9,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Smilisca,baudini,crit,30,NA,,,40.4,30,-106.9,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Formica,perpilosa,crit,25,NA,,,45.2,35.65,-106.77,,1500,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Schumacher_1974,Sunday_et_al_PNAS_2014,
+Trachymyrmex,smithi_neomexicanus,crit,25,NA,,,36.7,35.65,-106.77,,1000,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Schumacher_1974,Sunday_et_al_PNAS_2014,
+Phrynosoma,cornutum,crit,30,NA,,,47.91,32.27,-106.75,,1100,Chordata,Reptilia,Squamata,Phrynosomatidae,terrestrial,Prieto_1971,Sunday_et_al_PNAS_2014,
+Pseudacris,triseriata,crit,20,NA,,,38.1,40.6,-105.83,,3040,Chordata,Amphibia,Anura,Hylidae,terrestrial,Miller_1974,Sunday_et_al_PNAS_2014,
+Phrynosoma,douglassii,crit,30,NA,,,43.5,32.87,-105.81,,2600,Chordata,Reptilia,Squamata,Phrynosomatidae,terrestrial,Prieto_1971,Sunday_et_al_PNAS_2014,
+Uta,stansburiana,crit,25,NA,,,43.7,40.56,-105.59,,1658,Chordata,Reptilia,Squamata,Iguania,terrestrial,Waldschmidt_1983,Sunday_et_al_PRSB_2011,
+Phyllomedusa,dacnicolor,crit,5,NA,,,28.8,20.758,-105.28,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Tlalocohyla,smithi,crit,30,NA,,,42.5,22,-104.8,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Sceloporus,merriami,crit,NA,NA,,,41.5,29.2,-103,,NA,Chordata,Reptilia,Squamata,Iguania,terrestrial,Huey_unpubl._data,Sunday_et_al_PRSB_2011,This entry is from the supplementary data table in Huey et al. 2009; acclimation temp is not provided.
+Eurycea,nana,crit,20,NA,,,37.2,29.9,-98,,190,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Berkhouse_1995,Sunday_et_al_PNAS_2014,
+Bufo,marmoreus,crit,36,NA,,,40.2,17,-96.7,,304.8,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Eurycea,longicauda,crit,15,NA,,,37.6,36.11,-94.33,,377,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Sealander_1969,Sunday_et_al_PNAS_2014,
+Eurycea,lucifuga,crit,15,NA,,,37.2,36.11,-94.33,,377,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Sealander_1969,Sunday_et_al_PNAS_2014,
+Hyla,walkeri,crit,26,NA,,,38.1,16.75,-92.63,,2255.52,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Ambystoma,maculatum,crit,15,NA,,,38.5,35.55,-91.62,,184,Chordata,Amphibia,Caudata,Ambystomatidae,terrestrial,Sealander_1969,Sunday_et_al_PNAS_2014,
+Bufo,canaliferus,crit,26,NA,,,37.3,14.58,-90.53,,914.4,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Eurycea,multiplicata,crit,15,NA,,,37.5,36.1,-90.36,,426.7,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Sealander_1969,Sunday_et_al_PNAS_2014,
+Anolis,carolinensis,crit,NA,NA,,,41.7,31,-90.1,,0,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation added from Van Berkum 1986.
+Rana,pipiens,crit,26,NA,,,35.2,45,-88.8,,2255.52,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Anolis,tropidolepis,crit,23.5,8,,,33.1,10.25,-85.628,,1500,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation added from Van Berkum 1986.
+Coptotermes,formosanus,crit,25,90,field_fresh,,45.9,39.391166,-85.48,,200,Arthropoda,Insecta,Isoptera,Rhinotermitidae,terrestrial,Hu_and_Appel_2004,Sunday_et_al_PRSB_2011,acclimation data added
+Reticulitermes,flavipes,crit,25,90,field_fresh,,44.85,32.61,-85.48,,216,Arthropoda,Insecta,Isoptera,Rhinotermitidae,terrestrial,Hu_and_Appel_2004,Sunday_et_al_PRSB_2011,Ctmin was a mean of the 3 ctmins from January (1.5; 1.8; 1.5) in Table 1. ctmax was a mean of the August ctmaxes. These are field fresh; use soil temperatures for each season as acclimation temp
+Dasyatis,sabina,crit,35,20,lab,,43.1,29.7,-85.3,,0,Chordata,Elasmobranchii,Rajiformes,Dasyatidae,marine,Fangue_and_Bennet_2003,Sunday_et_al_PRSB_2011,added duration of acclimation
+Anolis,cupreus,crit,24.5,8,,,38.4,10.5,-85.3,,10,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation added from Van Berkum 1986.
+Sceloporus,variabilis,crit,NA,NA,,,43.1,10.5,-85.3,,0,Chordata,Reptilia,Squamata,Phrynosomatidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation conditions in Van Berkum's thesis
+Anolis,intermedius,crit,24.5,8,,,38.4,10.25,-84.8,,1450,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation added from Van Berkum 1986.
+Sceloporus,malachiticus,crit,NA,NA,,,42.8,10.25,-84.8,,1400,Chordata,Reptilia,Squamata,Phrynosomatidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation conditions in Van Berkum's thesis
+Desmognathus,fuscus,crit,25,7,,,35,39.7,-84.7,,300,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Layne_and_Claussen_1982,Sunday_et_al_PRSB_2011,
+Eurycea,bislineata,crit,25,7,,,35,39.7,-84.7,,300,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Layne_and_Claussen_1983b,Sunday_et_al_PRSB_2011,
+Lepidophyma,flavimaculatum,crit,NA,NA,,,38,10.45,-84.02,,2000,Chordata,Reptilia,Squamata,Xantusiidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation conditions in Van Berkum's thesis
+Ameiva,festiva,crit,29,NA,,,43.7,10.5,-84,,50,Chordata,Reptilia,Squamata,Teiidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,
+Anolis,humilis,crit,24.5,8,,,35.6,10.5,-84,,50,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation added from Van Berkum 1986.
+Anolis,lemurinus,crit,24.5,8,,,37.3,10.5,-84,,50,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation added from Van Berkum 1986.
+Anolis,limifrons,crit,24.5,8,,,36.8,10.5,-84,,50,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation added from Van Berkum 1986.
+Anolis,lionotus,crit,24.5,8,,,36.7,10.5,-84,,50,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,van_Berkum_1988,Sunday_et_al_PRSB_2011,acclimation added from Van Berkum 1986.
+Eleutherodactylus,fleischmanni,crit,23,NA,,,31.4,10.03,-83.77,,1554.48,Chordata,Amphibia,Anura,Craugastoridae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Rana,palmipes,crit,36,NA,,,36.9,9.75,-83.75,,579.12,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Bufo,haemititicus,crit,36,NA,,,37.5,10,-83.7,,579.12,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Craugastor,fleischmanni,crit,23,NA,,,31.4,10,-83.7,,1554.48,Chordata,Amphibia,Anura,Craugastoridae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Rana,warszewitschii,crit,26,NA,,,32.8,10,-83.7,,1554.48,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Dendrobates,auratus,crit,26,NA,,,34.8,10,-83.5,,304.8,Chordata,Amphibia,Anura,Dendrobatidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Rana,sylvaticus,crit,15,NA,,,33.9,42.63,-83.22,,67,Chordata,Amphibia,Anura,Ranidae,terrestrial,Manis_and_Claussen_1986,Sunday_et_al_PRSB_2011,
+Eciton,burchellii,leth,30,NA,,,51.3,9.6,-82.7,,37,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Meisel_2006,Sunday_et_al_PNAS_2014,
+Erthemis,simplicicollis,crit,25,NA,,,46.5,29.6,-82.3,,55,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Macromia,taeniolata,crit,25,NA,,,44.8,29.6,-82.3,,55,Arthropoda,Insecta,Odonata,Macromiidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Pachydiplax,longipennis,crit,25,NA,,,45.5,29.6,-82.3,,55,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Tramea,carolina,crit,25,NA,,,46.8,29.6,-82.3,,55,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Sceloporus,undulatus,crit,33,NA,,,40.4,33.6,-81.7,,200,Chordata,Reptilia,Squamata,Phrynosomatidae,terrestrial,Angilletta_et_al_2002,Sunday_et_al_PRSB_2011,
+Desmognathus,ochrophaeus,crit,20,NA,,,31.5,37.4,-80.5,,1432,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Zweifel_1959,Sunday_et_al_PNAS_2014,
+Desmognathus,quadramaculatus,crit,15,NA,,,31.4,37.4,-80.5,,1158,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Zweifel_1959,Sunday_et_al_PNAS_2014,
+Diemictylus,viridescens,crit,25,NA,,,37.3,37.4,-80.5,,1158,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Zweifel_1959,Sunday_et_al_PNAS_2014,
+Erythemis,credula,crit,25,NA,,,45.6,9.16,-79.83,,0,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Erythemis,plebeja,crit,25,NA,,,46.8,9.16,-79.83,,0,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Micrathyria,aequalis,crit,25,NA,,,45.4,9.16,-79.83,,0,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Micrathyria,eximia,crit,25,NA,,,44.7,9.16,-79.83,,0,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Micrathyria,ocellata,crit,25,NA,,,44.3,9.16,-79.83,,0,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Tauriphila,argo,crit,25,NA,,,48.5,9.16,-79.83,,0,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Tramea,cophysa,crit,25,NA,,,47.6,9.16,-79.83,,0,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Tramea,walkeri,crit,25,NA,,,46.3,9.16,-79.83,,0,Arthropoda,Insecta,Odonata,Libellulidae,terrestrial,May_1978,Sunday_et_al_PNAS_2014,
+Bufo,marinus,crit,38,NA,,,41.8,9.153356,-79.846442,,304.8,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Brattstrom_1968,Sunday_et_al_PRSB_2011,
+Apogon,dovii,crit,26.5,90,field_fresh,,35.9,2.961556,-78.2,,0,Chordata,Actinopterygii,Perciformes,Apogonidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Apogon,pacifici,crit,26.5,90,field_fresh,,34.7,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Apogonidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Bathygobius,ramosus,crit,26.5,90,field_fresh,,39.6,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Gobiidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Chromis,atrilobata,crit,26.5,90,field_fresh,,35.2,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Pomacentridae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Cirrhitichthys,oxycephalus,crit,26.5,90,field_fresh,,35.8,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Cirrhitidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Coryphopterus,urospilus,crit,26.5,90,field_fresh,,35.4,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Gobiidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Eucinostomus,gracilis,crit,26.5,90,field_fresh,,38,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Gerreidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Haemulon,steindachneri,crit,26.5,90,field_fresh,,37.2,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Haemulidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Halichoeres,dispilus,crit,26.5,90,field_fresh,,35.8,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Labridae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Lutjanus,guttatus,crit,26.5,90,field_fresh,,37.4,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Lutjanidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Malacoctenus,zonifer,crit,26.5,90,field_fresh,,38.2,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Labrisomidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Mugil,curema,crit,26.5,90,field_fresh,,40.8,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Mugilidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Plagiotremus,azaleus,crit,26.5,90,field_fresh,,35.3,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Blenniidae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Stegastes,acapulcoensis,crit,26.5,90,field_fresh,,37.7,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Pomacentridae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Thalassoma,lucasanum,crit,26.5,90,field_fresh,,36,2.96,-78.2,,0,Chordata,Actinopterygii,Perciformes,Labridae,marine,Mora_and_Ospina_2001;_2002,Sunday_et_al_PRSB_2011,added acclimation
+Abudefduf,saxatilis,leth,30,90,field_fresh,,40,9.5,-78,,0,Chordata,Actinopterygii,Perciformes,Pomacentridae,marine,Scholander_et_al1953,Physiological_Zoology_Vol._26_No._1_(Jan._1953)_pp._67-92,
+Haemulon,bonariense,leth,30,90,field_fresh,,40,9.5,-78,,0,Chordata,Actinopterygii,Perciformes,Haemulidae,marine,Scholander_et_al1953,Physiological_Zoology_Vol._26_No._1_(Jan._1953)_pp._67-92,
+Lutjanus,apodus,leth,30,90,field_fresh,,40,9.5,-78,,0,Chordata,Actinopterygii,Perciformes,Lutjanidae,marine,Scholander_et_al1953,Physiological_Zoology_Vol._26_No._1_(Jan._1953)_pp._67-92,
+Scarus,iseri,leth,30,90,field_fresh,,35,9.5,-78,,0,Chordata,Actinopterygii,Perciformes,Labridae,marine,Scholander_et_al1953,Physiological_Zoology_Vol._26_No._1_(Jan._1953)_pp._67-92,
+Ambystoma,jeffersonianum,crit,10,NA,,,34,40.23,-76.85,,422.2,Chordata,Amphibia,Caudata,Ambystomatidae,terrestrial,Gatz_1971,Sunday_et_al_PNAS_2014,
+Argopecten,purpuratus,leth,19,7,lab,,29,-14.25,-76.2,,0,Mollusca,Bivalvia,Pectinoida,Pectinidae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Gari,solida,leth,16,7,lab,,26.9,-14.25,-76.2,,0,Mollusca,Bivalvia,Veneroida,Psammobiidae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Semele,corrugata,leth,16,7,lab,,30.6,-14.25,-76.2,,0,Mollusca,Bivalvia,Veneroida,Semelidae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Semele,solida,leth,16,7,lab,,28.5,-14.25,-76.2,,0,Mollusca,Bivalvia,Veneroida,Semelidae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Gemma,gemma,leth,30,NA,lab,,37,37.11,-76.13,,0,Mollusca,Bivalvia,Veneroida,Veneridae,marine,Kennedy_and_Mihursky_1971,Chesapeake_Science_(1971)_12:_193,added acclimation but could not find duration description
+Mulinia,lateralis,leth,25,NA,lab,,33.5,37.11,-76.13,,0,Mollusca,Bivalvia,Veneroida,Mactridae,marine,Kennedy_and_Mihursky_1971,Chesapeake_Science_(1971)_12:_193,added acclimation but could not find duration description
+Mya,arenaria,leth,30,NA,lab,,32.5,37.11,-76.13,,0,Mollusca,Bivalvia,Myoida,Myidae,marine,Kennedy_and_Mihursky_1971,Chesapeake_Science_(1971)_12:_193,added acclimation but could not find duration description
+Rana,virgatipes,crit,25,NA,,,38,40.1,-74.8,,24,Chordata,Amphibia,Anura,Ranidae,terrestrial,Holzman_1973,Sunday_et_al_PNAS_2014,
+Misumenoides,formosipes,crit,22.8,NA,,,48.2,40.5,-74.5,,36.9,Arthropoda,Arachnida,Araneae,Thomisidae,terrestrial,Schmalhofer_1999,Sunday_et_al_PRSB_2011,
+Misumenops,asperatus,crit,16.5,NA,,,45.1,40.5,-74.5,,36.9,Arthropoda,Arachnida,Araneae,Thomisidae,terrestrial,Schmalhofer_1999,Sunday_et_al_PRSB_2011,
+Hyla,labialis,crit,25,NA,,,38.6,4.38,-74.13,,3050,Chordata,Amphibia,Anura,Hylidae,terrestrial,Mahoney_and_Hutchison_1969,Sunday_et_al_PNAS_2014,
+Menidia,menidia,leth,28,5,lab,,32.5,40,-74,,0,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,marine,Hoff_and_Westman_1966_in_Brett_1970,Sunday_et_al_PRSB_2011,added acclimation; duration reported as 2-30 days.
+Pseudopleuronectes,americanus,leth,28,5,lab,,29.1,40,-74,,0,Chordata,Actinopterygii,Atheriniformes,Pleuronectidae,marine,Hoff_and_Westman_1966_in_Brett_1971,Sunday_et_al_PRSB_2011,added acclimation; duration reported as 2-30 days.
+Sphoeroides,maculatus,leth,28,5,lab,,32.5,40,-74,,0,Chordata,Actinopterygii,Tetraodontiformes,Tetradontidae,marine,Hoff_and_Westman_1966_in_Brett_1972,Sunday_et_al_PRSB_2011,added acclimation; duration reported as 2-30 days.
+Pungitius,pungitius,leth,5,90,field_fresh,summer and autumn,20,40,-74,,0,Chordata,Actinopterygii,Perciformes,Gasterosteidae,marine,Scholander_et_al1953,Physiological_Zoology_Vol._26_No._1_(Jan._1953)_pp._67-92,
+Rana,catesbeiana,crit,23,NA,,,33.6,40.74,-73.95,,304.8,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Rana,clamitans,crit,23,NA,,,35,40.74,-73.95,,304.8,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Rana,palustris,crit,23,NA,,,31.3,40.74,-73.95,,304.8,Chordata,Amphibia,Anura,Ranidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Spea,holbrooki,crit,23,NA,,,34,40.74,-73.95,,304.8,Chordata,Amphibia,Anura,Scaphiopodidae,terrestrial,Brattstrom_1968,Sunday_et_al_PNAS_2014,
+Aulacomya,atra,leth,13,7,lab,,25.6,-36.5,-73.9,,0,Mollusca,Bivalvia,Mytiloida,Mytilidae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Choromytilus,chorus,leth,13,7,lab,,26.3,-36.5,-73.9,,0,Mollusca,Bivalvia,Mytiloida,Mytilidae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Ensis,macha,leth,13,7,lab,,25,-36.5,-73.9,,0,Mollusca,Bivalvia,Veneroida,Pharidae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Protothaca,thaca,leth,13,7,lab,,28.1,-36.5,-73.9,,0,Mollusca,Bivalvia,Veneroida,Veneridae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Tagelus,dombeii,leth,13,7,lab,,25.1,-36.5,-73.9,,0,Mollusca,Bivalvia,Veneroida,Solecurtidae,marine,Urban_1994,Marine_Ecology_Progress_Series_107:_139-145_1994,added acclimation
+Venus,antiqua,leth,13,7,lab,,25.6,-36.5,-73.9,,0,Mollusca,Bivalvia,Veneroida,Veneridae,marine,Urban_1994,MarineEcologyProgressSeries107:139-1451994,added acclimation
+Phymaturus,patagonicus,crit,30,90,field_fresh,,39.9,-41,-71,,900,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Ibarguengoytia_2005,Sunday_et_al_PRSB_2011,acclimation data added; field temperature taken from mean of body temps
+Anolis,shrevei,crit,29.2,NA,,,40.1,18.8,-70.7,,2200,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,Hertz_Huey_1981,Sunday_et_al_PNAS_2014,
+Anolis,cybotes,crit,29.9,NA,,,39,19.2,-70.6,,1150,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,Hertz_Huey_1981,Sunday_et_al_PNAS_2014,
+Bufo,woodhousii_fowleri,crit,22,NA,,,41.1,41.779,-70.103,,15,Chordata,Amphibia,Anura,Bufonidae,terrestrial,Sherman_1970,Sunday_et_al_PNAS_2014,
+Tautogolabrus,adspersus,leth,20,90,field_fresh,,30,42,-70,,0,Chordata,Actinopterygii,Perciformes,Labridae,marine,Brett_1970,Sunday_et_al_PRSB_2011,added duration of acclimation
+Liolaemus,kriegi,crit,29,NA,,,43.67,-42.07833333,-69.51715,,950,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,cf_elongatus,crit,29,NA,,,45.1,-41.88333333,-69.36666667,,1850,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_2005,Sunday_et_al_PNAS_2014,
+Liolaemus,cf._elongatus,crit,29,NA,,,45.1,-41.88333333,-69.36666667,,700,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,rothi,crit,29,NA,,,43.8,-40.2863,-68.45448333,,500,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,petrophilus,crit,29,NA,,,45.23,-42.2606,-68.4115,,900,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,sp2,crit,29,NA,,,44.7,-40.44288333,-68.3728,,200,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_2005,Sunday_et_al_PNAS_2014,
+Liolaemus,multicolor,crit,29,NA,,,44.7,-40.44288333,-68.3728,,0,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,canqueli,crit,29,NA,,,44.6,-44.03771,-68.35657,,900,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,bibronii,crit,29,NA,,,44.53,-40.26955,-68.22613,,0,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,poecilochromus,crit,29,NA,,,44.16,-27.52333333,-68.12583333,,3500,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Laternula,elliptica,leth,-0.5,90,field_fresh,,9,-67.5,-68,,0,Mollusca,Bivalvia,Pholadomyoida,Laternulidae,marine,Peck_et_al_2002,Sunday_et_al_PRSB_2011,added acclimation; took a mean from field data and short acclimation in lab; cold tolerance was artificial
+Adamussium,colbecki,leth,NA,NA,,,4,-67.5,-68,,0,Mollusca,Bivalvia,Ostreoida,Pectinidae,marine,Peck_et_al_2004,Sunday_et_al_PRSB_2011,The LT50 was from a different study: Bailey PhD thesis. No acclimation given.
+Odontaster,validus,leth,0,28,lab,,15,-67.5,-68,,0,Echinodermata,Asteroidea,Valvatida,Odontasteridae,marine,Peck_et_al_2008,Sunday_et_al_PRSB_2011,added acclimation; cold tolerance was artificial
+Liolaemus,olongasta,crit,29,NA,,,44.58,-29.81666667,-67.95,,900,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,capillitas,crit,29,NA,,,43.7,-29.73333333,-67.75,,3300,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_2005,Sunday_et_al_PNAS_2014,
+Liolaemus,cf._capillitas,crit,29,NA,,,43.7,-29.73333333,-67.75,,2500,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,riojanus,crit,29,NA,,,45.2,-30.20433333,-67.66883333,,500,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,salinicola,crit,29,NA,,,48.21,-27.47616667,-67.64016667,,0,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,darwinii,crit,29,NA,,,44.68,-29.51,-67.57,,800,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,kingii,crit,29,NA,,,44.5,-45.41,-67.56,,0,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,abaucan,crit,29,NA,,,47.3,-27.2499,-67.42391,,1200,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,laurenti,crit,29,NA,,,46.18,-30.1226,-67.4013,,800,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Sphaerodactylus,macrolepis,crit,27.6,NA,,,39.5,18.133393,-66.975063,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Alvarez_1992,Sunday_et_al_PRSB_2011,Alvarez 1992 is a PhD thesis; but found the data in Martin and Huey 2008
+Liolaemus,sp1,crit,29,NA,,,45,-37.3963,-67.1124,,1200,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_2005,Sunday_et_al_PNAS_2014,
+Liolaemus,cuyanus,crit,29,NA,,,45.7,-28.18,-67.11,,400,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,chacoensis,crit,29,NA,,,44.1,-28.8017,-66.93978333,,700,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,pseudoanomalus,crit,29,NA,,,45.93,-28.8017,-66.93978333,,990,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Sphaerodactylus,nicholsi,crit,30.2,NA,,,40.5,18.133393,-66.975063,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Alvarez_1992,Sunday_et_al_PRSB_2011,Alvarez 1992 is a PhD thesis; but found the data in Martin and Huey 2008
+Sphaerodactylus,roosevelti,crit,30.2,NA,,,39.5,18.133393,-66.975063,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Alvarez_1992,Sunday_et_al_PRSB_2011,Alvarez 1992 is a PhD thesis; but found the data in Martin and Huey 2008
+Anolis,cooki,crit,NA,NA,,,38.8,18.1,-66.9,,0,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,Huey_unpubl._data,Sunday_et_al_PRSB_2011,acclimation is not provided in Huey et al 2009 data table; original work is not published
+Liolaemus,robertmertensi,crit,29,NA,,,43,-28.80833333,-66.74216667,,690,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,scrocchi,crit,29,NA,,,43.91,-24.13516667,-66.67433333,,3200,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,koslowskyi,crit,29,NA,,,46.1,-28.8017,-66.56387,,800,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,irregularis,crit,29,NA,,,44.98,-24.25133333,-66.352,,3060,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,quilmes,crit,29,NA,,,44.69,-26.5936,-66.1649,,1600,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,scapularis,crit,29,NA,,,45.57,-26.5936,-66.1649,,1000,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,albiceps,crit,29,NA,,,44.33,-24.31723333,-66.15191667,,3060,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,sp3,crit,29,NA,,,43.85,-24.30526667,-66.15116667,,3350,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_2005,Sunday_et_al_PNAS_2014,
+Anolis,gundlachi,crit,24.8,90,field_fresh,,35.7,18.241,-66.135,,350,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,Huey_1976,Sunday_et_al_PNAS_2014,acclimation was only 1 day; in most studies this is considered field-fresh; therefore changed acclimation data and used mean field body temp for acclimation temp
+Anolis,cristatellus,crit,28,8,,,37.1,18.5,-66.135,,NA,Chordata,Reptilia,Squamata,Polychrotidae,terrestrial,Huey_1983,Sunday_et_al_PRSB_2011,found acclimation temp in original source
+Sphaerodactylus,gaigeae,crit,27.6,NA,,,38.2,18.1,-65.89,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Alvarez_1992,Sunday_et_al_PRSB_2011,Alvarez 1992 is a PhD thesis; but found the data in Martin and Huey 2008
+Eleutherodactylus,coqui,crit,27,7,,,37.2,18.4,-65.8,,15,Chordata,Amphibia,Anura,Leptodactylidae,terrestrial,Christian_et_al_1988,Sunday_et_al_PRSB_2011,acc data on p.237
+Eleutherodactylus,portoricensus,crit,20,7,,,36.3,18.31,-65.75,,500,Chordata,Amphibia,Anura,Leptodactylidae,terrestrial,Christian_1988,Sunday_et_al_PNAS_2014,
+Sphaerodactylus,klauberi,crit,25.1,NA,,,36.3,18.1,-65.72,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Alvarez_1992,Sunday_et_al_PRSB_2011,Alvarez 1992 is a PhD thesis; but found the data in Martin and Huey 2008
+Sphaerodactylus,townsendi,crit,30.2,NA,,,41.7,18.305215,-65.757117,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Alvarez_1992,Sunday_et_al_PRSB_2011,Alvarez 1992 is a PhD thesis; but found the data in Martin and Huey 2008
+Liolaemus,xanthoviridis,crit,29,NA,,,44.48,-43.73838333,-65.5761,,0,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,fitzingerii,crit,29,NA,,,44.45,-43.48536,-65.46557,,0,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Liolaemus,cf_telsen,crit,29,NA,,,44.6,-42.3947,-64.59311,,400,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_2005,Sunday_et_al_PNAS_2014,
+Liolaemus,boulengeri,crit,29,NA,,,43.99,-42.3947,-64.59311,,0,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Cyprinodon,dearborni,leth,32,90,field_fresh,,35.7,18,-64.5,,0,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,marine,in_Brett_1970,Sunday_et_al_PRSB_2011,added acclimation as midpoint of field environmental range.
+Rivulus,marmoratus,leth,30,90,field_fresh,,35.7,18,-64.5,,0,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,marine,in_Brett_1970,Sunday_et_al_PRSB_2011,added acclimation as midpoint of field environmental range.
+Liolaemus,melanops,crit,29,NA,,,44.94,-42.26993,-64.0754,,900,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Clupea,herengus,leth,10,8,,,19.6,47,-63.67,,0,Chordata,Actinopterygii,Clupeiformes,Clupeidae,marine,Brawn_1960_in_Brett_1970,Sunday_et_al_PRSB_2011,change reference because previous data was for larvae; added acclimation
+Saduria,entomon,leth,1.75,90,field_fresh,,25,65,-60,,0,Arthropoda,Malacostraca,Isopoda,Idoteidae,marine,Scholander_et_al1953,Physiological_Zoology_Vol._26_No._1_(Jan._1953)_pp._67-92,
+Pachycara,brachycephalum,crit,0,8,lab,,10,-61.72,-59.2,,0,Chordata,Actinopterygii,Perciformes,Zoarcidae,marine,Van_Dijk_1999,Sunday_et_al_PRSB_2011,added acclimation and removed cold tolerance as artificial
+Liolaemus,multimaculatus,crit,29,NA,,,43.83,-38.54,-58.55266667,,0,Chordata,Reptilia,Squamata,Tropiduridae,terrestrial,Cruz_et_al._2005,Sunday_et_al_PRSB_2011,
+Limopsis,marionensis,leth,0,100,lab,,4,-75,-51,,0,Mollusca,Bivalvia,Arcoida,Limopsidae,marine,Portner_et_al_1999,Sunday_et_al_PRSB_2011,added acclimation - held for 9 years; so chose arbitrary high number of days
+Liothyrella,uva,leth,0,30,lab,,4.5,-60.71,-45.6,,0,Brachiopoda,Rhynchonellata,Terebratulida,Terebratulidae,marine,Peck_1989,Sunday_et_al_PRSB_2011,added acclimation; specimens were kept on a ship from antarctica to UK at 0ïçC; so guessed 30 days; cold tolerance assumed; should be remvoed.
+Hippolyte,obliquimanus,crit,29,90,field_fresh,,34.7,-23.8,-45.4,,0,Arthropoda,Malacostraca,Decapoda,Hippolytidae,marine,Vinagre_et_al2014,Journal_of_Thermal_Biology_47_19-25._2014,added acclimation; more species could be added from this study
+Parablennius,marmoreus,crit,29,90,field_fresh,,36.6,-23.8,-45.4,,0,Chordata,Actinopterygii,Perciformes,Blenniidae,marine,Vinagre_et_al2014,Journal_of_Thermal_Biology_47_19-25._2014,added acclimation; more species could be added from this study
+Tarentola,boettgeri,crit,23.5,7,,,42.6,27.929,-15.508,,0,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Brown_1996,Sunday_et_al_PRSB_2011,p.398
+Acar,domingensis,crit,24,90,field_fresh,,39,-7.89,-14.38,,0,Mollusca,Bivalvia,Arcoida,Arcidae,marine,Morley_et_al2016,"Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_",added acclimation; some more species from antarctica could be added
+Echinometra,lucunter,crit,24,90,field_fresh,,37.1,-7.89,-14.38,,0,Echinodermata,Echinoidea,Echinoida,Echinometridae,marine,Morley_et_al2016,Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_2016_96(1)_159_165,added acclimation; some more species from antarctica could be added
+Eucidaris,tribuloides,crit,24,90,field_fresh,,36,-7.89,-14.38,,0,Echinodermata,Echinoidea,Cidaroida,Cidaridae,marine,Morley_et_al2016,Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_2016_96(1)_159_165,added acclimation; some more species from antarctica could be added
+Ophiostigma,abnorme,crit,24,90,field_fresh,,35.6,-7.89,-14.38,,0,Echinodermata,Ophiuroidea,Ophiurida,Amphiuridae,marine,Morley_et_al2016,Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_2016_96(1)_159_165,added acclimation; some more species from antarctica could be added
+Crangon,crangon,crit,24,14,lab,,33.8,38,-9,,0,Arthropoda,Malacostraca,Decapoda,Crangonidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Dicentrarchus,labrax,crit,24,14,lab,,33.3,38,-9,,0,Chordata,Actinopterygii,Perciformes,Moronidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Diplodus,bellottii,crit,24,14,lab,,27.38,38,-9,,0,Chordata,Actinopterygii,Spariformes,Sparidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Diplodus,sargus,crit,24,14,lab,,33.8,38,-9,,0,Chordata,Actinopterygii,Spariformes,Sparidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Diplodus,vulgaris,crit,24,14,lab,,31.1,38,-9,,0,Chordata,Actinopterygii,Spariformes,Sparidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Gobius,niger,crit,24,14,lab,,34.1,38,-9,,0,Chordata,Actinopterygii,Perciformes,Gobiidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Liocarcinus,marmoreus,crit,24,14,lab,,32.2,38,-9,,0,Arthropoda,Malacostraca,Decapoda,Polybiidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Lipophrys,trigloides,crit,24,14,lab,,33.8,38,-9,,0,Chordata,Actinopterygii,Perciformes,Blenniidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Liza,ramada,crit,24,14,lab,,38,38,-9,,0,Chordata,Actinopterygii,Mugiliformes,Mugilidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Palaemon,longirostris,crit,24,14,lab,,34.4,38,-9,,0,Arthropoda,Malacostraca,Decapoda,Palaemonidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Pegusa,lascaris,crit,24,14,lab,,32.9,38,-9,,0,Chordata,Actinopterygii,Pleuronectiformes,Soleidae,marine,Madeira_et_al2012,Journal_of_Sea_Research_70_(2012)_32_41,added acclimation
+Psammodromus,algirus,crit,35,NA,,,43.5,40.6,-5.9,,NA,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Bauwens_et_al._1995,Sunday_et_al_PRSB_2011,
+Psammodromus,hispanicus,crit,35,NA,,,45.5,40.4,-4.3,,NA,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Bauwens_et_al._1995,Sunday_et_al_PRSB_2011,
+Podarcis,muralis,crit,35,NA,,,44.21,40.7,-4.1,,NA,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Bauwens_et_al._1995,Sunday_et_al_PRSB_2011,
+Proformica,ferreri,crit,20,NA,,,50.4,37.2,-3.6,,900,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Fernandez_Escudero1998,Sunday_et_al_PNAS_2014,
+Proformica,longiseta,crit,20,NA,,,51.1,37.2,-3.6,,2400,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Fernandez_Escudero1998,Sunday_et_al_PNAS_2014,
+Aphanenogaster,senilis,crit,20,NA,,,46,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Camponotus,cruentatus,crit,20,NA,,,48,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Camponotus,slyvaticus,crit,20,NA,,,46,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Cataglyphis,cursor,crit,20,NA,,,50,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Messor,bouvieri,crit,20,NA,,,44,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Messor,capitatus,crit,20,NA,,,44,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Pheidole,pallldula,crit,20,NA,,,40,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Plagiolepis,pygmaea,crit,20,NA,,,40,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Tetromorium,nigerrimum,crit,20,NA,,,42,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Tetromorium,semilaeve,crit,20,NA,,,40,41.296,2.09,,50,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Cerda_2002,Sunday_et_al_PNAS_2014,
+Lacerta,agilis,crit,35,NA,,,43.9,51.8,5.9,,NA,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Bauwens_et_al._1995,Sunday_et_al_PRSB_2011,
+Onymacris,bicolor,crit,35,NA,,,49,-23.621981,15.216622,,NA,Arthropoda,Insecta,Coleoptera,Tenebrionidae,terrestrial,Roberts_et_al_1991,Sunday_et_al_PRSB_2011,
+Onymacris,marginipennis,crit,35,NA,,,47.4,-23.621981,15.216622,,NA,Arthropoda,Insecta,Coleoptera,Tenebrionidae,terrestrial,Roberts_et_al_1991,Sunday_et_al_PRSB_2011,
+Onymacris,plana,crit,35,NA,,,48.9,-23.621981,15.216622,,NA,Arthropoda,Insecta,Coleoptera,Tenebrionidae,terrestrial,Roberts_et_al_1991,Sunday_et_al_PRSB_2011,
+Onymacris,rugatipennis,crit,35,NA,,,50.5,-23.621981,15.216622,,NA,Arthropoda,Insecta,Coleoptera,Tenebrionidae,terrestrial,Roberts_et_al_1991,Sunday_et_al_PRSB_2011,
+Onymacris,unguicularis,crit,35,NA,,,50.4,-23.621981,15.216622,,NA,Arthropoda,Insecta,Coleoptera,Tenebrionidae,terrestrial,Roberts_et_al_1991,Sunday_et_al_PRSB_2011,
+Physadesmia,globosa,crit,35,NA,,,50.8,-23.621981,15.216622,,NA,Arthropoda,Insecta,Coleoptera,Tenebrionidae,terrestrial,Roberts_et_al_1991,Sunday_et_al_PRSB_2011,
+Agroeca,proxima,crit,15,NA,,,37.4,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Liocranidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Clubiona,similis,crit,15,NA,,,42,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Clubionidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Clubiona,trivialis,crit,15,NA,,,41.4,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Clubionidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Dipoena,inornata,crit,15,NA,,,43.2,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Theridiidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Oedothorax,apicatus,crit,15,NA,,,40.4,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Linyphiidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Pardosa,nigriceps,crit,15,NA,,,39.7,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Lycosidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Philodromus,aureolus,crit,15,NA,,,42.1,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Philodromidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Scotina,gracilipes,crit,15,NA,,,41.4,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Liocranidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Stemonyphantes,lineatus,crit,15,NA,,,40.5,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Linyphiidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Tibellus,oblongus,crit,15,NA,,,42.8,55.4,14.19,,3,Arthropoda,Arachnida,Araneae,Philodromidae,terrestrial,Almquist_1970,Sunday_et_al_PRSB_2011,
+Zootoca,vivipara,crit,NA,90,field_fresh,,43.9,49.88,17.5,,250,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Gvozdik_and_Castilla_2001,Sunday_et_al_PRSB_2011,Specimens were field fresh from the summer; no field temperature data given; therefore removed acc data
+Gonocephalum,simplex,crit,NA,NA,field_fresh,summer,49.5,-32.919,18.226,,0,Arthropoda,Insecta,Coleoptera,Tenebrionidae,terrestrial,Klok_2004,Sunday_et_al_PNAS_2014,samples were field fresh but no field temps given
+Linepithema,humile,crit,25,NA,,,40,-33.848371,18.859043,,136,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Jumbam_et_al_2008b,Sunday_et_al_PRSB_2011,I think this is outside of native range
+Chirodica,chalcoptera,crit,19,14,,,41,-33.6,19,,350,Arthropoda,Insecta,Coleoptera,Chrysomelidae,terrestrial,Terblanche_et_al_2005,Sunday_et_al_PRSB_2011,
+Bullia,rhodostoma,leth,17.5,90,field_fresh,,34.7,-33.9,25.6,,0,Mollusca,Gastropoda,Neogastropoda,Nassariidae,marine,Ansell_&_McLachlan_1980,Journal_of_Experimental_Marine_Biology_and_Ecology_48(3):243-251,added acclimation as midpoint of environmental range
+Donax,serra,leth,17.5,90,field_fresh,,33,-33.9,25.6,,0,Mollusca,Bivalvia,Veneroida,Donacidae,marine,Ansell_&_McLachlan_1980,Journal_of_Experimental_Marine_Biology_and_Ecology_48(3):243-251,added acclimation as midpoint of environmental range
+Donax,sordidus,leth,17.5,90,field_fresh,,35,-33.9,25.6,,0,Mollusca,Bivalvia,Veneroida,Donacidae,marine,Ansell_&_McLachlan_1980,Journal_of_Experimental_Marine_Biology_and_Ecology_48(3):243-251,added acclimation as midpoint of environmental range
+Hodotermes,mossambicus,crit,35,15,,,48,-28,28,,NA,Arthropoda,Insecta,Isoptera,Hodotermitidae,terrestrial,Mitchell_et._al._1993,Sunday_et_al_PRSB_2011,added acclimation data
+Hemachatus,haemachatus,crit,25,NA,,,43.1,-26.14,28.25,,1600,Chordata,Reptilia,Squamata,Elapidae,terrestrial,Alexander_1999,Sunday_et_al_PNAS_2014,
+Imbrasia,belina,crit,30,NA,,,43.1,-28,28.8,,NA,Arthropoda,Insecta,Lepidoptera,Saturniidae,terrestrial,Frears_et_al_1997,Sunday_et_al_PRSB_2011,
+Platysaurus,intermedius_wilhelmi,crit,25,NA,,,44.8,-24.58,31.18,,640,Chordata,Reptilia,Squamata,Cordylidae,terrestrial,Lailvaux_2003,Sunday_et_al_PNAS_2014,
+Laudakia,stellio,crit,30,NA,,,44.6,30.8,34.5,,170,Chordata,Reptilia,Squamata,Agamidae,terrestrial,Hertz_et_al._1983,Sunday_et_al_PRSB_2011,
+Trapelus,savignyi,crit,30,12,,,47.2,31.1,34.8,,330,Chordata,Reptilia,Squamata,Agamidae,terrestrial,Hertz_et_al._1983,Sunday_et_al_PRSB_2011,Acclimation data add. Citation is: Hertz P.E. R.B. Huey and E. Nevo. 1983. Homage to Santa Anita: Thermal Sensitivity of Sprint Speed in Agamid Lizards. Evolution; 37: 1075-1084.
+Chamaeleo,ellioti,crit,30.3,90,field_fresh,,41.8,0.210382,35.1,,1800,Chordata,Reptilia,Squamata,Chamaeleonidae,terrestrial,Bennett_2004,Sunday_et_al_PRSB_2011,considered field_fresh and field temp assumed from body temp assesments in field prior to experiment.
+Chamaeleo,bitaeniatus,crit,28.6,90,field_fresh,,42.1,1.226387,36.26,,2000,Chordata,Reptilia,Squamata,Chamaeleonidae,terrestrial,Bennett_2004,Sunday_et_al_PRSB_2011,considered field_fresh and field temp assumed from body temp assesments in field prior to experiment.
+Chamaeleo,hohnelii,crit,30.1,90,field_fresh,,40.8,-1.274359,36.8,,1700,Chordata,Reptilia,Squamata,Chamaeleonidae,terrestrial,Bennett_2004,Sunday_et_al_PRSB_2011,considered field_fresh and field temp assumed from body temp assesments in field prior to experiment.
+Chamaeleo,jacksonii,crit,29.2,90,field_fresh,,41,-1.274359,36.8,,1700,Chordata,Reptilia,Squamata,Chamaeleonidae,terrestrial,Bennett_2004,Sunday_et_al_PRSB_2011,considered field_fresh and field temp assumed from body temp assesments in field prior to experiment.
+Chamaeleo,schubotzi,crit,19.1,90,field_fresh,,41.6,-0.154284,37.3,,3300,Chordata,Reptilia,Squamata,Chamaeleonidae,terrestrial,Bennett_2004,Sunday_et_al_PRSB_2011,considered field_fresh and field temp assumed from body temp assesments in field prior to experiment.
+Myro,kerguelenensis,crit,15,7,,,35.4,-46.9,37.7,Marion,99,Arthropoda,Arachnida,Araneae,Desidae,terrestrial,Jumbam_et_al_2008,Sunday_et_al_PRSB_2011,
+Ectemnorhinus,marioni,crit,15,7,,,38.2,-46.8,37.7,Marion,600,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,Klok_and_Chown_2003,Sunday_et_al_PRSB_2011,acclimation data added
+Ectemnorhinus,similis,crit,15,7,,,39.3,-46.8,37.7,Marion,600,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,Klok_and_Chown_2003,Sunday_et_al_PRSB_2011,acclimation data added
+Palirhoeus,eatoni,crit,15,7,,,36.5,-46.8,37.7,Marion,5,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,Klok_and_Chown_2003,Sunday_et_al_PRSB_2011,acclimation data added
+Bothrometopus,parvulus,crit,15,7,,,36.3,-46.8,37.7,Marion,0,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,van_der_Merwe_et_al_1997,Sunday_et_al_PRSB_2011,original ciation was: van der Merwe; M.; S.L. Chown; and V.R. Smith. Thermal tolerance limits in six weevil species (Coleoptera; Curculionidae) from sub-Antarctic Marion Island. Polar Biol (1997) 18: 331-336.  BUT JS replaced with better data from: Klok CJ and Chown SL. Biological Journal of the Linnean Society 2003 78 401_414.
+Bothrometopus,randi,crit,15,7,,,37.7,-46.9,37.7,Marion,0,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,van_der_Merwe_et_al_1997,Sunday_et_al_PRSB_2011,original ciation was: van der Merwe; M.; S.L. Chown; and V.R. Smith. Thermal tolerance limits in six weevil species (Coleoptera; Curculionidae) from sub-Antarctic Marion Island. Polar Biol (1997) 18: 331-336.  BUT JS replaced with better data from: Klok CJ and Chown SL. Biological Journal of the Linnean Society 2003 78 401_414.
+Paractora,dreuxi,crit,10,NA,,,35.5,-46.9,37.8,Marion,99,Arthropoda,Insecta,Diptera,Helcomyzidae,terrestrial,Klok_and_Chown_2001,Sunday_et_al_PRSB_2011,
+Bothrometopus,elongatus,crit,15,7,,,37.6,-46.9,37.8,Marion,150,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,Klok_and_Chown_2003,Sunday_et_al_PRSB_2011,original ciation was: van der Merwe; M.; S.L. Chown; and V.R. Smith. Thermal tolerance limits in six weevil species (Coleoptera; Curculionidae) from sub-Antarctic Marion Island. Polar Biol (1997) 18: 331-336.  BUT JS replaced with better data from: Klok CJ and Chown SL. Biological Journal of the Linnean Society 2003 78 401_414.
+Antarctopsocus,jeanneli,crit,5.7,90,field_fresh,,29.5,-46.9,37.8,Marion,99,Arthropoda,Insecta,Psocoptera,Elipsocidae,terrestrial,Slabber_and_Chown_2004,Sunday_et_al_PRSB_2011,"checked data; field fresh is better for tmax. Season of collection not reported; therefore used mean annual temp around which there is """"""""little variation"""""""" as given in the methods."
+Halmaeusa,atriceps,crit,20,7,,,32.3,-46.9,37.8,Marion,99,Arthropoda,Insecta,Coleoptera,Staphylinidae,terrestrial,Slabber_and_Chown_2005,Sunday_et_al_PRSB_2011,
+Chamaeleo,dilepis,crit,31.7,90,field_fresh,,43.6,-2.413422,37.9,,800,Chordata,Reptilia,Squamata,Chamaeleonidae,terrestrial,Bennett_2004,Sunday_et_al_PRSB_2011,considered field_fresh and field temp assumed from body temp assesments in field prior to experiment.
+Halozetes,fulvus,leth,15,7,,,39.9,-46.9,37.9,Marion,0,Arthropoda,Arachnida,Acarina,Oribatidae,terrestrial,Deere_et_al_2006,Sunday_et_al_PRSB_2011,p.696
+Podacarus,auberti,leth,15,7,,,39.5,-46.9,37.9,Marion,0,Arthropoda,Arachnida,Acari,Podacaridae,terrestrial,Deere_et_al_2006,Sunday_et_al_PRSB_2011,
+Glossina,pallidipes,crit,30,NA,,,44.3,-13.03,31.45,,388,Arthropoda,Insecta,Diptera,Glossinidae,terrestrial,Terblanche_et_al_2008,Sunday_et_al_PRSB_2011,
+Bothrometopus,brevis,crit,7.5,7,,,34.7,-53.05742,73.549233,Heard,5,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,Klok_and_Chown_2003,Sunday_et_al_PRSB_2011,citation: Klok CJ and Chown SL. Biological Journal of the Linnean Society 2003 78 401_414. NOW ENTERED
+Bothrometopus,gracilipes,crit,7.5,7,,,34.1,-53.05742,73.549233,Heard,200,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,Klok_and_Chown_2003,Sunday_et_al_PRSB_2011,citation: Klok CJ and Chown SL. Biological Journal of the Linnean Society 2003 78 401_414. NOW ENTERED
+Canonopsis,sericeus,crit,7.5,7,,,38.6,-53.05742,73.549233,Heard,5,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,Klok_and_Chown_2003,Sunday_et_al_PRSB_2011,citation: Klok CJ and Chown SL. Biological Journal of the Linnean Society 2003 78 401_414. NOW ENTERED
+Ectemnorhinus,viridis,crit,7.5,7,,,34.2,-53.05742,73.549233,Heard,300,Arthropoda,Insecta,Coleoptera,Curculionidae,terrestrial,Klok_and_Chown_2003,Sunday_et_al_PRSB_2011,acclimation data added
+Plethodon,glutinosus,crit,25,NA,,,34.5,40.78,75.28,,1100,Chordata,Amphibia,Caudata,Plethodontidae,terrestrial,Elwood_2003,Sunday_et_al_PNAS_2014,
+Eremias,multiocellata,crit,28,NA,,,41,41.4,106.9,,1000,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Li_2009,Sunday_et_al_PNAS_2014,
+Eremias,argus,crit,28,NA,,,43,36.1,111.5,,467,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Li_2009,Sunday_et_al_PNAS_2014,
+Paa,spinosa,crit,19,NA,,,42.1,24.48,112.63,,20,Chordata,Amphibia,Anura,Ranidae,terrestrial,Zheng_2010,Sunday_et_al_PNAS_2014,
+Takydromus,sexlineatus,crit,31.5,14,,,42.2,24.7,113.6,,28,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Zhang_and_Ji_2004,Sunday_et_al_PRSB_2011,"Selected body temp (Tsel) experiment was conducted before Tmax, so used Tsel as acclimation. Assuming bulb set up was kept between experiments (so acclimation was at least 14 days)."
+Eremias,brenchleyi,crit,28,2,,,40.8,33.6,117.02,,4,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Xu_and_Ji_2001,Sunday_et_al_PRSB_2011,acclimation data added
+Plestiodon,elegans,crit,28,7,,,41.9,30.3,120.15,,18,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Du_2000,Sunday_et_al_PRSB_2011,acclimation data added; kept in temperature gradient for >7days prior - so presume acclimation temp is same as selected temp acquired within this paper.
+Eumeces,elegans,crit,28,NA,,,41.9,30.2,120.2,,18,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Du_2000,Sunday_et_al_PNAS_2014,
+Trimeresurus,gracilis,crit,30,NA,,,38.3,23.9,120.7,,2000,Chordata,Reptilia,Squamata,Viperidae,terrestrial,Huang_2007b,Sunday_et_al_PRSB_2011,
+Protobothrops,mucrosquamatus,crit,10,NA,,,38.6,23.8,121,,0,Chordata,Reptilia,Squamata,Viperidae,terrestrial,Huang_et_al_2007,Sunday_et_al_PRSB_2011,
+Takydromus,hsuehshanensis,crit,30,NA,,,44.1,24.1,121.3,,2900,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Huang_2008,Sunday_et_al_PNAS_2014,
+Sphenomorphus,taiwanensis,crit,30,NA,,,38.4,24,121.3,,2700,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Huang_et_al_2006,Sunday_et_al_PRSB_2011,
+Trimeresurus,stejnegeri_stejnegeri,crit,30,14,,,38.9,24.7,121.5,,0,Chordata,Reptilia,Squamata,Viperidae,terrestrial,Huang_et_al_2007,Sunday_et_al_PRSB_2011,p.594: Huang et al 2007: Zoological Studies 46(5): 592-599 (2007)
+Takydromus,formosanus,crit,30,NA,,,43.7,25.04,121.53,,0,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Huang_2008,Sunday_et_al_PNAS_2014,
+Takydromus,stejnegeri,crit,30,NA,,,43.2,25.04,121.53,,0,Chordata,Reptilia,Squamata,Lacertidae,terrestrial,Huang_2008,Sunday_et_al_PNAS_2014,
+Sphenomorphus,incognitus,crit,30,NA,,,41.5,22.904417,121.204998,,0,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Huang_et_al_2006,Sunday_et_al_PRSB_2011,
+Bathygobius,sp2,crit,30.4,90,field_fresh,,41.6,-5.7,123.7,,0,Chordata,Actinopterygii,Perciformes,Gobiidae,marine,Taylor_et_al_2005,Sunday_et_al_PRSB_2011,
+Drosophila,bipectinata,leth,23,8,,,33.5,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,bocki,leth,23,8,,,33.2,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,elegans,leth,23,8,,,33.6,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,ficusphila,leth,23,8,,,33.5,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,lacteicornis,leth,23,8,,,32.5,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,quadrilineata,leth,23,8,,,33.9,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,ruberrima,leth,23,8,,,32.1,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,takahashii,leth,23,8,,,32.5,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Scaptodrosophila,bryani,leth,23,8,,,35.5,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Scaptodrosophila,coracina,leth,23,8,,,34.5,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Scaptodrosophila,dorsocentralis,leth,23,8,,,34.2,24.331864,123.820935,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Bathygobius,fuscus,crit,35,14,lab,,42.4,-5.45,124,,0,Chordata,Actinopterygii,Perciformes,Gobiidae,marine,Eme_and_Bennett_2009,Sunday_et_al_PRSB_2011,corrected the years of the citation
+Liza,vaigiensis,crit,35,14,lab,,44.5,-5.45,124,,0,Chordata,Actinopterygii,Mugiliformes,Mugilidae,marine,Eme_and_Bennett_2009,Sunday_et_al_PRSB_2011,corrected the years of the citation
+Dascyllus,aruanus,crit,30,14,lab,,40.5,-5.45,124,,0,Chordata,Actinopterygii,Perciformes,Pomacentridae,marine,Eme_and_Bennett_2009,Sunday_et_al_PRSB_2011,corrected the years of the citation
+Apogon,novemfasciatus,crit,30,14,lab,,40.1,-5.45,124,,0,Chordata,Actinopterygii,Perciformes,Apogonidae,marine,Eme_and_Bennett_2009,Sunday_et_al_PRSB_2011,corrected the years of the citation
+Melophorus,bagoti,crit,40,NA,,,56.7,-23.7,133.88,,608,Arthropoda,Insecta,Hymenoptera,Formicidae,terrestrial,Christian_Morton1992,Sunday_et_al_PNAS_2014,
+Engraulis,japonicus,leth,NA,NA,,,32,34.9,138.6,,0,Chordata,Actinopterygii,Clupeiformes,Engraulidae,marine,Suehiro_1951_in_Brett_1970,Sunday_et_al_PRSB_2011,
+Sardinops,melanosticta,leth,NA,NA,,,30,34.9,138.6,,0,Chordata,Actinopterygii,Clupeiformes,Clupeidae,marine,Suehiro_1951_in_Brett_1970,Sunday_et_al_PRSB_2011,
+Egernia,striola,crit,25,NA,,,44.2,-34.57,139.57,,0,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_1986,Sunday_et_al_PNAS_2014,
+Eremiascincus,richardsoni,crit,25,NA,,,42,-34.57,139.57,,0,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_1986,Sunday_et_al_PNAS_2014,
+Ctenotus,taeniolatus,crit,35,NA,,,44.7,-34.57,139.57,,0,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_and_John-Alder_1986,Sunday_et_al_PRSB_2011,
+Ctenotus,uber,crit,35,NA,,,45.5,-34.57,139.57,,0,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_and_John-Alder_1986,Sunday_et_al_PRSB_2011,
+Drosophila,angularis,leth,23,8,,,34.4,35.594573,139.721364,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,bizonata,leth,23,8,,,32.9,35.594573,139.721364,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,daruma,leth,23,8,,,33.4,35.028846,135.796642,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,p.444: Field-collected females were allowed to oviposit on food medium at 23çC under long-day conditions (15 h light; 9 h dark); and their progenies were examined for cold and heat tolerance 8 days after eclosion without acclimation
+Drosophila,lutescens,leth,23,8,,,31.1,35.594573,139.721364,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,rufa,leth,23,8,,,32.9,35.594573,139.721364,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,sternopleuralis,leth,23,8,,,31.4,35.594573,139.721364,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,suzukii,leth,23,8,,,32.7,35.594573,139.721364,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Eremiascincus,fasciolatus,crit,35,NA,,,41.2,-27.75,140.72,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_and_John-Alder_1986,Sunday_et_al_PRSB_2011,
+Drosophila,auraria,leth,23,8,,,33.9,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,biauraria,leth,23,8,,,32.5,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,brachynephros,leth,23,8,,,33.6,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,curvispina,leth,23,8,,,32.6,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,kanekoi,leth,23,8,,,35.4,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,lacertosa,leth,23,8,,,31,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,nigromaculata,leth,23,8,,,34.3,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,orientacea,leth,23,8,,,31.9,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Drosophila,unispina,leth,23,8,,,32.3,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Hirtodrosophila,histrioides,leth,23,8,,,32.3,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Scaptodrosophila,pallida,leth,23,8,,,33.9,43.115593,141.444655,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Kimura_2004,Sunday_et_al_PRSB_2011,
+Crinia,laevis,crit,25,NA,,,33.5,-37.5,142.5,,304.8,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,chloris,crit,30,NA,,,38.3,-17.27,145.48,,731.5,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,gracilenta,crit,30,NA,,,38.3,-17.27,145.48,,731.5,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,rubella,crit,30,NA,,,41.6,-17.27,145.48,,731.5,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,bicolor,crit,30,NA,,,41.4,-17.93,145.92,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,glauerti,crit,30,NA,,,41.6,-17.93,145.92,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,rothi,crit,30,NA,,,39.4,-17.93,145.92,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Cophixalis,ornatus,crit,30,NA,,,33.3,-17.82,146,,304.8,Chordata,Amphibia,Anura,Microhylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,aurea,crit,30,NA,,,36.2,-38.591,146.099,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Crinia,victoriana,crit,5,NA,,,29.5,-37.84,146.27,,944.9,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Philoria,frosti,crit,25,NA,,,28.8,-37.84,146.27,,944.9,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Cyclorana,alboguttatus,crit,5,NA,,,33.8,-20,146.8,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Crinia,parainsignifera,crit,5,NA,,,30.5,-31.55,147.2,,304.8,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Limnodynastes,fletcheri,crit,5,NA,,,28.3,-31.55,147.2,,304.8,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,lesueuri,crit,30,NA,,,34.5,-37.48,148.17,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,verreauxi,crit,10,NA,,,32,-37.48,148.17,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,phyllochroa,crit,10,NA,,,30,-37.41,148.2,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,caerulea,crit,30,NA,,,39.3,-20.151,148.246,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Crinia,signifera,crit,25,NA,,,34.9,-36.45,148.26,,1981.2,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,alpina,crit,25,NA,,,32.9,-36.41,148.4,,1981.2,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Pseudophryne,corroboree,crit,25,NA,,,35.2,-36.39,148.43,,1828.8,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Ctenotus,regius,crit,35,NA,,,45.1,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_and_John-Alder_1986,Sunday_et_al_PRSB_2011,
+Egernia,striolata,crit,35,NA,,,44.2,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_and_John-Alder_1986,Sunday_et_al_PRSB_2011,
+Eremiascincus,richardsonii,crit,35,NA,,,42,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_and_John-Alder_1986,Sunday_et_al_PRSB_2011,
+Tiliqua,rugosa,crit,35,NA,,,43,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_and_John-Alder_1986,Sunday_et_al_PRSB_2011,
+Hemiergis,peronii,crit,25,NA,,,38.6,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Bennett_and_John-Alder_1986/Greer_1980,Sunday_et_al_PRSB_2011,p.93
+Amphibolurus,decresii,crit,NA,NA,,,43.8,-30,150,,NA,Chordata,Reptilia,Squamata,Agaidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Amphibolurus,diemensis,crit,NA,NA,,,44.8,-30,150,,NA,Chordata,Reptilia,Squamata,Agaidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Amphibolurus,muricatus,crit,NA,NA,,,42.3,-30,150,,NA,Chordata,Reptilia,Squamata,Agaidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Austrelaps,superbus,crit,NA,NA,,,41.2,-30,150,,NA,Chordata,Reptilia,Squamata,Elapidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Bassiana,duperreyi,crit,NA,NA,,,43.5,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,synonym of Leiolopisma trilineatum; Mia misunderstood data that I sent - which was a summary to tmax data in paper - not tmax_acc. Therefore replaced tmax_acc with NA. Only season of collection was given - not field temp.
+Egernia,cunninghami,crit,NA,NA,,,41.9,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Egernia,inornata,crit,NA,NA,,,41.6,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Egernia,saxatilis,crit,NA,NA,,,41.8,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Egernia,whitii,crit,NA,NA,,,41.8,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Eulamprus,kosciuskoi,crit,NA,NA,,,40.2,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Eulamprus,quoyi,crit,NA,NA,,,39.8,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Gehyra,variegata,crit,NA,NA,,,43.8,-30,150,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Hemiergis,decresiensis,crit,NA,NA,,,39.3,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Heteronotia,binoei,crit,NA,NA,,,40.6,-30,150,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Lampropholis,delicata,crit,NA,NA,,,40.8,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Leiolopisma,guichenoti,crit,NA,NA,,,42,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Changed citation year to correct year. Field fres; only season of collection was given - not field temp.
+Leiolopisma,mustelinum,crit,NA,NA,,,38.6,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Moloch,horridus,crit,NA,NA,,,42.5,-30,150,,NA,Chordata,Reptilia,Squamata,Agaidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Nannoscincus,maccoyi,crit,NA,NA,,,37,-30,150,,NA,Chordata,Reptilia,Squamata,Gekkonidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Niveoscincus,metallicum,crit,NA,NA,,,40,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Niveoscincus,ocellatum,crit,NA,NA,,,40.1,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Notechis,scutatus,crit,NA,NA,,,38,-30,150,,NA,Chordata,Reptilia,Squamata,Hydrophiidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Physignathus,gilberti,crit,NA,NA,,,41.8,-30,150,,NA,Chordata,Reptilia,Squamata,Agaidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Pseudemoia,entrecasteauxii,crit,NA,NA,,,42.1,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Pseudemoia,spenceri,crit,NA,NA,,,42.3,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Pseudonaja,textilis,crit,NA,NA,,,42.4,-30,150,,NA,Chordata,Reptilia,Squamata,Hydrophiidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Sphenomorphus,tympanum,crit,NA,NA,,,39.8,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Suta,flagellum,crit,NA,NA,,,40,-30,150,,NA,Chordata,Reptilia,Squamata,Hydrophiidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Tiliqua,nigrolutea,crit,NA,NA,,,42.5,-30,150,,NA,Chordata,Reptilia,Squamata,Scincidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Varanus,varius,crit,NA,NA,,,43.7,-30,150,,NA,Chordata,Reptilia,Squamata,Varanidae,terrestrial,Spellerberg_1972,Sunday_et_al_PRSB_2011,Filed fresh; only season of collection was given - not field temp.
+Limnodynastes,dorsalis,crit,30,NA,,,36.5,-31.1,150.93,,609.6,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Neobatrachus,pictus,crit,5,NA,,,29.3,-31.1,150.93,,609.6,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,freycineti,crit,5,NA,,,31.3,-33.38,151.3,,304.8,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Adelotus,brevis,crit,5,NA,,,31.2,-33.43,151.35,,304.8,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Limnodynastes,peroni,crit,10,NA,,,32.7,-33.43,151.35,,304.8,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Myxophyes,fasciolatus,crit,30,NA,,,30.5,-33.43,151.35,,304.8,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,ewingi,crit,25,NA,,,32.8,-30.51,151.62,,1371.6,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,peroni,crit,25,NA,,,36.2,-30.51,151.62,,731.5,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Limnodynastes,tasmaniensis,crit,25,NA,,,33.4,-30.51,151.66,,1371.6,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Pseudophryne,bibroni,crit,5,NA,,,34.8,-30.51,151.66,,1371.6,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Pseudophryne,dendyi,crit,5,NA,,,34.8,-30.51,151.66,,1371.6,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Hyla,citropa,crit,5,NA,,,30.7,-30.5,152.9,,1371.6,Chordata,Amphibia,Anura,Hylidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Philoria,sphagnicola,crit,5,NA,,,25.8,-30.5,152.9,,1525,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Litoria,gracilenta,crit,25,NA,,,39,-27.5,153,,5,Chordata,Amphibia,Anura,Hylidae,terrestrial,Johnson_1972,Sunday_et_al_PNAS_2014,
+Crinia,darlingtoni,crit,5,NA,,,31,-28.28,153.11,,762,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Philoria,loveridgei,crit,10,NA,,,30.5,-28.28,153.11,,762,Chordata,Amphibia,Anura,Myobatrachidae,terrestrial,Brattstrom_1970,Sunday_et_al_PNAS_2014,
+Trematomus,bernacchii,leth,-1.9,90,field_fresh,,6,-77.75,165,,0,Chordata,Actinopterygii,Perciformes,Nototheniidae,marine,Somero_and_DeVries_1967_in_Brett_1970,Sunday_et_al_PRSB_2011,"Acclimated in lab for """"""""less than 1 week"""""""" to match field conditions exactly; so technically field fresh + lab; but closer to field fresh. Removed tmin - these were inferred based on ice crystal formation but there was no sign of physiological distress. Corrected tmax to match author's conclusions about upper incipient lethal temperature (LT50 at 1 week)."
+Trematomus,borchgrevinki,leth,-1.9,90,field_fresh,,6,-77.75,165,,0,Chordata,Actinopterygii,Perciformes,Nototheniidae,marine,Somero_and_DeVries_1967_in_Brett_1970,Sunday_et_al_PRSB_2011,"Acclimated in lab for """"""""less than 1 week"""""""" to match field conditions exactly; so technically field fresh + lab; but closer to field fresh. Removed tmin - these were inferred based on ice crystal formation but there was no sign of physiological distress. Corrected tmax to match author's conclusions about upper incipient lethal temperature (LT50 at 1 week)."
+Trematomus,hansoni,leth,-1.9,90,field_fresh,,6,-77.75,165,,0,Chordata,Actinopterygii,Perciformes,Nototheniidae,marine,Somero_and_DeVries_1967_in_Brett_1970,Sunday_et_al_PRSB_2011,"Acclimated in lab for """"""""less than 1 week"""""""" to match field conditions exactly; so technically field fresh + lab; but closer to field fresh. Removed tmin - these were inferred based on ice crystal formation but there was no sign of physiological distress. Corrected tmax to match author's conclusions about upper incipient lethal temperature (LT50 at 1 week)."
+Eudorella,splendida,leth,-1.8,90,field_fresh,,15,-77.8,166.67,,0,Arthropoda,Malacostraca,Cumacea,Leuconidae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Heterophoxus,videns,leth,-1.8,90,field_fresh,,13,-77.8,166.67,,0,Arthropoda,Malacostraca,Amphipoda,Phoxocephalidae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Margarites,refulgens,leth,-1.8,90,field_fresh,,19,-77.8,166.67,,0,Mollusca,Gastropoda,Archaeogastropoda,Trochidae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Nymphon,sp.,leth,-1.8,90,field_fresh,,20,-77.8,166.67,,0,Arthropoda,Pycnogonida,Pantopoda,Nymphonidae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Onoba,gelida,leth,-1.8,90,field_fresh,,14,-77.8,166.67,,0,Mollusca,Gastropoda,Neotaenioglossa,Rissoidae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Orchomene,pinguides,leth,-1.8,90,field_fresh,,12,-77.8,166.67,,0,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Paramoera,walkeri,leth,-1.8,90,field_fresh,,15.02,-77.8,166.67,,0,Arthropoda,Malacostraca,Amphipoda,Eusiridae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Philomedidae,sp.,leth,-1.8,90,field_fresh,,14,-77.8,166.67,,0,Arthropoda,Malacostraca,Myodocopida,Philomedidae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Cnemidocarpa,bicornuta,crit,13,90,field_fresh,,29,-45.4,167.1,,0,Chordata,Ascidiacea,Stolidobranchia,Styelidae,marine,Morley_et_al2016,Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_2016_96(1)_159_165,added acclimation; some more species from antarctica could be added
+Liothyrella,neozelanica,crit,13,90,field_fresh,,29.4,-45.4,167.1,,0,Brachiopoda,Rhynchonellata,Terebratulida,Terebratulidae,marine,Morley_et_al2016,Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_2016_96(1)_159_165,added acclimation; some more species from antarctica could be added
+Pseudechinus,huttoni,crit,13,90,field_fresh,,26.8,-45.4,167.1,,0,Echinodermata,Echinoidea,Temnopleuroida,Temnopleuridae,marine,Morley_et_al2016,Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_2016_96(1)_159_165,added acclimation; some more species from antarctica could be added
+Cryptopygus,cisantarcticus,crit,3,90,field_fresh,summer,31.6,-71.68333333,170,Antarctica,0,Arthropoda,Entognatha,Collembola,Isotomidae,terrestrial,Sinclair_et_al._2006,Sunday_et_al_PRSB_2011,citation year has been corrected; acclimation data added; field temp data from Fig 8; Dec 10
+Friesea,grisea,crit,7,90,field_fresh,summer,35.1,-71.68333333,170,Antarctica,0,Arthropoda,Entognatha,Collembola,Isotomidae,terrestrial,Sinclair_et_al._2006,Sunday_et_al_PRSB_2011,citation year has been corrected; acclimation data added; field temp data from Fig 8; Dec 10
+Isotoma,klovstadi,crit,5,90,field_fresh,summer,34.5,-71.68333333,170,Antarctica,0,Arthropoda,Entognatha,Collembola,Isotomidae,terrestrial,Sinclair_et_al._2006,Sunday_et_al_PRSB_2011,field temp data from Fig 8; Dec 10
+Cookia,sulcata,crit,16,90,field_fresh,,32.7,-45.8,170.6,,0,Mollusca,Gastropoda,Vetigastropoda,Turbinidae,marine,Morley_et_al2016,Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_2016_96(1)_159_165,added acclimation; some more species from antarctica could be added
+Ophioneries,fasciata,crit,16,90,field_fresh,,31.8,-45.8,170.6,,0,Echinodermata,Ophiuroidea,Ophiurida,Ophionereidae,marine,Morley_et_al2016,Journal_of_the_Marine_Biological_Association_of_the_United_Kingdom_2016_96(1)_159_165,added acclimation; some more species from antarctica could be added
+Paraleptognathia,antarctica,leth,-1.8,90,field_fresh,,10,-77.8,166.67,,0,Arthropoda,Malacostraca,Tanaidacea,Anarthruridae,marine,Bates_et_al_2010,Sunday_et_al_PRSB_2011,added acclimation temp based on reported field temperature of field-fresh specimen. Removed cold tolerance as it was artificial
+Bathygobius,sp1,crit,38,14,lab,,43,-5.45,124,,0,Chordata,Actinopterygii,Perciformes,Gobiidae,marine,Eme_and_Bennett_2009,Sunday_et_al_PRSB_2011,added acclimation temperatures and corrected citation year
+Lepidonotothen,nudifrons,leth,0,7,lab,,9,-67.068412,-68.872108,,0,Chordata,Actinopterygii,Perciformes,Nototheniidae,marine,Hardewig_et_al_1999,Sunday_et_al_PRSB_2011,added acclimation temperature. removed cold tolerance as artificial
+Prinerigone,vagans,crit,15,7,,,35.9,-46.9,37.7,Marion,88,Arthropoda,Arachnida,Araneae,Linyphiidae,terrestrial,Jumbam_et_al_2008,Sunday_et_al_PRSB_2011,
+Spodoptera,exempta,crit,27,NA,,,55.94,-25.629883,28.238452,,1282,Arthropoda,Insecta,Lepidoptera,Noctuidae,terrestrial,Klok_and_Chown_1998a,Sunday_et_al_PRSB_2011,
+Embryonopsis,halticella,crit,15,7,,,39.7,-46.9,37.7,Marion,NA,Arthropoda,Insecta,Lepidoptera,Yponomeutidae,terrestrial,Klok_and_Chown_1998b,Sunday_et_al_PRSB_2011,acc data on p.616
+Drosophila,albomicans,leth,21,20,,,33,28.275118,129.362702,,50,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Ohtsu_et_al._1999,Sunday_et_al_PRSB_2011,acclimation added
+Drosophila,curviceps,leth,21,20,,,30,36.5,138.5,,1600,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Ohtsu_et_al._1999,Sunday_et_al_PRSB_2011,acclimation added
+Drosophila,immigrans,leth,21,20,,,31.5,43,141.3,,NA,Arthropoda,Insecta,Diptera,Drosophilidae,terrestrial,Ohtsu_et_al._1999,Sunday_et_al_PRSB_2011,acclimation added
+Pringleophaga,marioni,crit,10,NA,,,38.7,-46.8,37.7,Marion,99,Arthropoda,Insecta,Lepidoptera,Tineidae,terrestrial,vanderMerwe_1997,Sunday_et_al_PRSB_2011,
+Phronima,sedentaria,leth,23,1,lab,,29,8.5,-90,,0,Arthropoda,Malacostraca,Amphipoda,Phronimidae ,marine,Elder_and_Siebel_2015,Comparative_Biochemistry_and_Physiology_Part_A_187_2015_20–26,

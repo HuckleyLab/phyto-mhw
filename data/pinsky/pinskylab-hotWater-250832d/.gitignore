@@ -1,0 +1,17 @@
+# ignore strange Mac files
+.DS_Store
+
+# ignore R temporary files
+.Rhistory
+.Rproj.user
+.RData
+
+# ignore Excel temporary
+~$*.xls*
+
+# ignore temporary output files
+temp/**
+
+# ignore downloaded data files
+data_dl/**
+

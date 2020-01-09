@@ -1,0 +1,16 @@
+Realm,Phylum,Class,Species with Tmax
+Terrestrial,Arthropoda,Arachnida,16
+Terrestrial,Arthropoda,Entognatha,3
+Terrestrial,Arthropoda,Insecta,88
+Terrestrial,Chordata,Amphibia,89
+Terrestrial,Chordata,Reptilia,122
+Marine,Arthropoda,Malacostraca,11
+Marine,Brachiopoda,Rhynchonellata,2
+Marine,Chordata,Actinopterygii,43
+Marine,Chordata,Ascidiacea,3
+Marine,Chordata,Elasmobranchii,1
+Marine,Echinodermata,Asteroidea,1
+Marine,Echinodermata,Echinoidea,3
+Marine,Echinodermata,Ophiuroidea,2
+Marine,Mollusca,Bivalvia,18
+Marine,Mollusca,Gastropoda,4
