@@ -23,6 +23,7 @@ import InfoDrawer from 'components/InfoDrawer';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import MenuDrawer from 'components/MenuDrawer';
 import Species from 'components/Species';
+import SpeciesList from 'components/SpeciesList';
 
 //Styles for MainContainer
 const MainContainer = styled.div`
@@ -109,7 +110,7 @@ class App extends React.Component{
         </StyledGrid>
         <StyledGrid container>
           <Grid item xs={3}>
-            <Species fish={this.state.fish} sciName={this.state.sciName} tags={this.state.tags} stressAge={this.state.stressAge}/>
+            <SpeciesList />
           </Grid>
           <Grid item xs={9}>
             <Map mapMoveHandler={this.updateLocationState}/>
