@@ -8,6 +8,7 @@
  */
 
 import React from 'react';
+import axios from 'axios';
 import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/core/styles';
 import Toolbar from '@material-ui/core/Toolbar';
@@ -60,6 +61,8 @@ const StyledGrid = styled(Grid)`
 class App extends React.Component{
   constructor(props){
     super(props);
+
+
     this.state = {
       latitude: 0,
       longitude: 0,
@@ -69,10 +72,19 @@ class App extends React.Component{
       sciName: "Salvelinus fontinalis",
       tags: ["Threatened"],
       stressAge: "15",
+      speciesData: null,
     };
+
+
+    // this.updateFromJson = this.updateFromJson.bind(this);
+    // axios.get('https://files.t11a.me/file/t11a-xyz/testfish-1579123486.json')
+    //   .then(this.updateFromJson);
     //this.updateFishState = this.updateFishState.bind(this);
     this.updateLocationState = this.updateLocationState.bind(this);
+
+
   }
+
 
   //Updates the cursor's current location on map
   updateLocationState(mapInfo){
@@ -90,9 +102,8 @@ class App extends React.Component{
     })
   }
 
-
-
   render(){
+    console.log(this.state.speciesData)
     return (
       <MainContainer>
         <StyledGrid container>
