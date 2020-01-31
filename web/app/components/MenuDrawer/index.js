@@ -65,8 +65,9 @@ export default function MenuDrawer() {
           <ListItemText primary={'About the project'} />
         </ListItem>
         </a>
+        <Divider />
       </List>
-      <Divider />
+
 
     </div>
   );

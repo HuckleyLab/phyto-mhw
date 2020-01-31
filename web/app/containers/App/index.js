@@ -68,7 +68,7 @@ class App extends React.Component{
       longitude: 0,
       zoom: 0,
       isOpen: false,
-      fish: "Brook Trout",
+      fishData: [],
       sciName: "Salvelinus fontinalis",
       tags: ["Threatened"],
       stressAge: "15",
@@ -85,6 +85,15 @@ class App extends React.Component{
 
   }
 
+  componentDidMount(){
+    this.serverRequest =
+      axios
+        .get('https://files.t11a.me/file/t11a-xyz/testfish-1579123486.json')
+        .then(result => {
+        const fishData = result.data;
+        this.setState({ fishData });
+      })
+  }
 
   //Updates the cursor's current location on map
   updateLocationState(mapInfo){
@@ -93,12 +102,6 @@ class App extends React.Component{
       longitude: mapInfo.longitude,
       zoom: mapInfo.zoom,
       isOpen: true,
-    })
-  }
-
-  updateFishState(){
-    this.setState({
-      fish: "Brook Trout",
     })
   }
 
@@ -121,7 +124,7 @@ class App extends React.Component{
         </StyledGrid>
         <StyledGrid container>
           <Grid item xs={3}>
-            <SpeciesList />
+            <SpeciesList fishData={this.state.fishData}/>
           </Grid>
           <Grid item xs={9}>
             <Map mapMoveHandler={this.updateLocationState}/>
