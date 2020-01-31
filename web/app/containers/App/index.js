@@ -25,6 +25,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import MenuDrawer from 'components/MenuDrawer';
 import Species from 'components/Species';
 import SpeciesList from 'components/SpeciesList';
+import Data from './data.json';
 
 //Styles for MainContainer
 const MainContainer = styled.div`
@@ -68,18 +69,10 @@ class App extends React.Component{
       longitude: 0,
       zoom: 0,
       isOpen: false,
-      fishData: [],
-      sciName: "Salvelinus fontinalis",
-      tags: ["Threatened"],
-      stressAge: "15",
-      speciesData: null,
+      fishData: null,
+      fisheys: Data,
     };
 
-
-    // this.updateFromJson = this.updateFromJson.bind(this);
-    // axios.get('https://files.t11a.me/file/t11a-xyz/testfish-1579123486.json')
-    //   .then(this.updateFromJson);
-    //this.updateFishState = this.updateFishState.bind(this);
     this.updateLocationState = this.updateLocationState.bind(this);
 
 
@@ -106,7 +99,6 @@ class App extends React.Component{
   }
 
   render(){
-    console.log(this.state.speciesData)
     return (
       <MainContainer>
         <StyledGrid container>
@@ -124,7 +116,7 @@ class App extends React.Component{
         </StyledGrid>
         <StyledGrid container>
           <Grid item xs={3}>
-            <SpeciesList fishData={this.state.fishData}/>
+            <SpeciesList fishData={this.state.fisheys}/>
           </Grid>
           <Grid item xs={9}>
             <Map mapMoveHandler={this.updateLocationState}/>
