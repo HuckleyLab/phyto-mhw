@@ -11,8 +11,9 @@ This work is in progress. Documentation of the project can be found [at this lin
 | `./web` | Development of Javascript web visualization |
 | `./mhw_pipeline` | Development of Python module for data analysis pipeline |
 | `./analysis` | Python exploratory and analytic notebooks. |
+| `./data` | Data from several sources (incomplete) |
 
 ## Contributors
 
 * Tony Cannistra (@acannistra), project lead.
-* Isaac Caruso (@icaruso21), undergraduate intern. 
+* Isaac Caruso (@icaruso21), undergraduate intern.
