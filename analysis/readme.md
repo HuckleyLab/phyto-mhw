@@ -1,4 +1,8 @@
 # Contents
+Notebooks containing most of the analyses for this project. 
+
+## [`Physiology`](./physiology)
+A folder containing physiology-related analyses.
 
 ### [`Topt_latitudinal_generalization.ipynb`](Topt_latitudinal_generalization.ipynb)
 
