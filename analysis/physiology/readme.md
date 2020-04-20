@@ -1,5 +1,18 @@
 # Contents
 
+### `general_tpc_latitudinal.pkl`
+
+A pickle file (via `dill`) containing a generalized phytoplankton thermal performance curve paramteterized by latitude via relationships modeled in [`TPC_params_latitudinal_generalization.ipynb`](./TPC_params_latitudinal_generalization.ipynb). To use: 
+
+```
+import dill 
+import numpy 
+import tpc 
+
+with open("general_tpc_latitudinal.pkl", 'rb') as f:
+    model_tpc = dill.loads(f.read())
+
+```
 
 ### [`TPC_params_latitudinal_generalization.ipynb`](./TPC_params_latitudinal_generalization.ipynb)
 

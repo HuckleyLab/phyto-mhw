@@ -64,3 +64,36 @@ def plot_det(s, ax, t=None):
     sns.despine()
     plt.tight_layout()
     plt.savefig("{}_{}_{}.png".format(sample.genus, sample.species, sample['isolate.code']))
+    
+    
+    
+def tpc_general(T, Topt, CTmin, CTmax):
+    """
+    R Code: 
+    
+    TPC<- function(T,Topt,CTmin, CTmax){
+  F=T
+  F[]=NA
+  sigma= (Topt-CTmin)/4
+  F[T<=Topt & !is.na(T)]= exp(-((T[T<=Topt & !is.na(T)]-Topt)/(2*sigma))^2)
+  F[T>Topt & !is.na(T)]= 1- ((T[T>Topt & !is.na(T)]-Topt)/(Topt-CTmax))^2
+  #set negetative to zero
+  F[F<0]<-0
+  return(F)
+}
+    
+    Reference: Deutsch CA, Tewksbury JJ, Huey RB, Sheldon KS, Ghalambor CK, Haak DC, Martin PR (2008) Impacts of climate warming on terrestrial ectotherms across latitude. Proceedings of the National Academy of Science of the United States of America, 105, 6668– 6672.
+    
+    """
+    
+    F = np.zeros_like(T)
+    sigma = (Topt-CTmin) / 4
+    
+    F[(T <= Topt) & (~np.isnan(T))] = np.exp(
+        -((T[(T<=Topt) & (~np.isnan(T))] - Topt)/(2*sigma))**2
+    )
+    
+    F[(T > Topt) & (~np.isnan(T))] = 1 - ((T[(T>Topt) & (~np.isnan(T))]-Topt)/(Topt-CTmax))**2
+    F[F<0] = 0
+    return(F)
+    
