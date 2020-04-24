@@ -1,7 +1,10 @@
 # Contents
 Notebooks containing most of the analyses for this project. 
 
-## [`Physiology`](./physiology)
+### [`Plankton_TP_MHWs_summary_24Apr.ipynb`](Plankton_TP_MHWs_summary_24Apr.ipynb)
+A summary of all work before Apr 24. 
+
+### [`Physiology`](./physiology)
 A folder containing physiology-related analyses.
 
 ### [`Topt_latitudinal_generalization.ipynb`](Topt_latitudinal_generalization.ipynb)
