@@ -59,6 +59,31 @@ class MHWDetector(object):
         self.detect_kwargs = kwargs
         self._load_mhw_detection_code()
 
+    def detect(self, sst=None):
+        """Detect all MHWS in given 'sst' object.
+
+        Will fail for global datasets.
+
+        """
+        if sst is None:
+            these_sst = self.sst
+        dets = xr.apply_ufunc(
+            self.mhw_1d,
+            these_sst.sst.chunk({'time': -1}),
+            these_sst.time,
+            input_core_dims = [['time'], ['time']],
+            output_core_dims=[["param","time"]],
+            output_dtypes=['float64'],
+            dask='parallelized',
+            output_sizes={"param": len(SAVED_DETECTION_PARAMS) + 3}, # + 3 for binary MHW detection parameter and climatology
+            vectorize=True
+        )
+        return(
+            dets.to_dataset(
+                dim='param'
+            ).rename_vars(SAVED_DETECTION_PARAMS_XR_DIMS)
+        )
+
 
     def get_nearest_mhw_detections(self, lat, lon, tolerance=0.25):
         """
