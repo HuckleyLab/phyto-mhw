@@ -32,13 +32,13 @@ SAVED_DETECTION_PARAMS = [
 # mapping from parameter index to dimension name for xr Dataset
 SAVED_DETECTION_PARAMS_XR_DIMS = {
         **{
-            i : SAVED_PARAMS[i]
-            for i in range(len(SAVED_PARAMS))
+            i : SAVED_DETECTION_PARAMS[i]
+            for i in range(len(SAVED_DETECTION_PARAMS))
         },
         **{
-            len(SAVED_PARAMS): 'mhw',
-            len(SAVED_PARAMS) + 1 : 'clim_thresh',
-            len(SAVED_PARAMS) + 2 : 'clim_seas'
+            len(SAVED_DETECTION_PARAMS): 'mhw',
+            len(SAVED_DETECTION_PARAMS) + 1 : 'clim_thresh',
+            len(SAVED_DETECTION_PARAMS) + 2 : 'clim_seas'
         }
 }
 
@@ -54,9 +54,10 @@ class MHWDetector(object):
             self.detect_mhws = detect
 
     def __init__(self, sst, mhw_detect_codepath, **kwargs):
-        self.sst = oisst
+        self.sst = sst
         self.mhw_detection_codepath = mhw_detect_codepath
         self.detect_kwargs = kwargs
+        self._load_mhw_detection_code()
 
 
     def get_nearest_mhw_detections(self, lat, lon, tolerance=0.25):
@@ -72,7 +73,7 @@ class MHWDetector(object):
         Returns Dataset with Dask arrays.
 
         """
-        these_sst = self.oisst.sel(lat=lat, lon=lon, method='nearest', tolerance=tolerance)
+        these_sst = self.sst.sel(lat=lat, lon=lon, method='nearest', tolerance=tolerance)
         dets = xr.apply_ufunc(
             self.mhw_1d,
             these_sst.sst.chunk({'time': -1}),
@@ -107,7 +108,7 @@ class MHWDetector(object):
         if(np.isnan(temps).any()): return np.zeros((len(SAVED_DETECTION_PARAMS_loc) + 3, time.shape[0]))
 
         ordinals =  np.array([pd.Timestamp(t).toordinal() for t in time])
-        dets = mh.detect(ordinals, temps.copy())
+        dets = self.mhw_detect(ordinals, temps.copy())
         events = dets[0]['n_events']
         del dets[0]['n_events']
 
