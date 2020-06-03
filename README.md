@@ -14,18 +14,18 @@ Marine heatwave events (MHWs), defined as discrete, anomalously warm periods of 
 
 ## Repository Structure
 
-⚠️ Note that this is code as a part of an ongoing resarch project, and thus can change at any time. Please examine our [LICENSE](./LICENSE) for more information. 
+⚠️ Note that this is code as a part of an ongoing resarch project, and thus can change at any time. Please examine our [LICENSE](./LICENSE) for more information.
 
 You can interactively explore this directory, and run some of the analyses, on [Binder](https://mybinder.org/v2/gh/HuckleyLab/phyto-mhw/master). Please note some technical details in the Requirements section.
 
 | Folder | Purpose |
 | ----   | ------ |
-| `./mhw_pipeline` | Development of Python module for analysis of OISST and MHW data via xarray |
-| `./analysis` | Python exploratory and analytic notebooks for MHW/Phytoplankton thermal response analyses. Contains all analyses and figures.  Look here for most of the project code. 👀  |
-| `./validation` | Notebooks + code for processing Sentinel-3 OLCI imagery to validate MHW phytoplankton thermal responses. |
-| `./data` | Phytoplankton physiology data. |
-| `./presentations` | Slides from presentations about this work. |
-| `./manuscript` | A work in progress academic manuscript for this project. |
+| [`./mhw_pipeline`](./mhw_pipeline) | Development of Python module for analysis of OISST and MHW data via xarray |
+| [`./analysis`](./analysis) | Python exploratory and analytic notebooks for MHW/Phytoplankton thermal response analyses. Contains all analyses and figures.  Look here for most of the project code. 👀  |
+| [`./validation`](./validation) | Notebooks + code for processing Sentinel-3 OLCI imagery to validate MHW phytoplankton thermal responses. |
+| [`./data`](./data) | Phytoplankton physiology data. |
+| [`./presentations`](./presentations) | Slides from presentations about this work. |
+| [`./manuscript`](./manuscript) | A work in progress academic manuscript for this project. (*Current manuscript version not published on GitHub yet; in review.*) |
 
 ## Requirements
 
