@@ -1,6 +1,8 @@
 # Seasonal and latitudinal effects of marine heatwaves on phytoplankton
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuckleyLab/phyto-mhw/master)
 ![GitHub](https://img.shields.io/github/license/HuckleyLab/phyto-mhw?style=flat)
+[![DOI](https://zenodo.org/badge/229272542.svg)](https://zenodo.org/badge/latestdoi/229272542)
+
 
 **Tony Cannistra**, Lauren Buckley; University of Washington Department of Biology
 
