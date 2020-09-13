@@ -8,6 +8,21 @@ def tpc(T, a, b, z, w):
     '''
     return a * np.exp(b*T) * (1 - ((T - z)/(w / 2))**2)
 
+def physiological_scaler(physio_data):
+    max_performance = physio_data['mu.g.opt.val.list'].item() # max growth rate
+    
+    def _scaler(data):
+        oldmin = -max_performance
+        oldmax = max_performance
+        newmin = -1
+        newmax = 1
+        
+        return (((data - oldmin) * (newmax - newmin)) / (oldmax - oldmin)) + newmin
+        return(newdata)
+    return(_scaler)
+    
+    
+
 def plot_tpc(sample, ax=None, color='k', alpha=1):
     T = np.arange(sample['mu.c.opt.list'] - (sample['mu.wlist'] / 2), sample['mu.c.opt.list'] + (sample['mu.wlist'] / 2), 0.1)
     perf = tpc(T, sample['mu.alist'], sample['mu.blist'], sample['mu.c.opt.list'], sample['mu.wlist'])
